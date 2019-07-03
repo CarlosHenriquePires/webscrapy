@@ -29,5 +29,5 @@ while(page < 3):
 
 test = list(zip(titulos,detalhes_,precos_,locais))
 df = pd.DataFrame(test)
-print(df)
+df.to_csv("webscrapy.csv")
 
