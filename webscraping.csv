@@ -1,50 +1,20 @@
-,titulo
-0,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-1,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-2,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-3,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-4,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-5,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-6,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-7,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-8,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-9,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-10,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-11,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-12,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-13,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-14,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-15,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-16,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-17,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-18,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-19,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-20,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-21,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-22,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-23,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-24,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-25,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-26,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-27,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-28,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-29,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-30,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-31,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-32,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-33,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-34,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-35,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-36,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-37,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-38,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-39,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-40,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-41,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-42,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-43,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-44,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-45,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-46,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-47,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
-48,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
+,ano,combustivel,cor,km,motor,portas,preco,tipo,titulo
+0,2016,Flex,Branco,39.000,1.0,4 portas,R$ 32.500,Hatch,Vendo hb20 1.0 comfort  - 2016
+1,2015,Flex,Preto,78.000,1.0,4 portas,R$ 6.900,Hatch,Repasso CELTa LT 2015 Completo  - 2015
+2,2003,Gasolina,Prata,200,1.0,4 portas,R$ 13.000,Hatch,Carro  - 2003
+3,2012,Flex,Vermelho,73.000,1.0,4 portas,R$ 20.000,Hatch,Vendo gol g4 2012 completo  - 2012
+4,2010,Flex,Branco,88.040,1.6,4 portas,R$ 28.900,Passeio,Soul 1.6 16v Flex Mec.  - 2010
+5,2014,Flex,Prata,61.960,1.6,4 portas,R$ 26.900,Passeio,SANDERO Expression Flex 1.6 16V 5p  - 2014
+6,2014,Flex,Preto,35.831,1.5,4 portas,R$ 32.900,Passeio,Fiesta S 1.5 16v Flex 4p Manual  - 2014
+7,2015,Flex,,19.749,1.6,4 portas,R$ 36.900,Passeio,Fox Comfortline I Motion 1.6 Flex 8V 5P  - 2015
+8,2018,Diesel,Prata,8.000,2.0 - 2.9,4 portas,R$ 129.999,Pick-up,Nissan 8000km 2018  - 2018
+9,2008,Flex,Cinza,167.000,1.6,4 portas,R$ 14.000,Sedã,"POLO SEDAN 1.6 2008, Oportunidade!  - 2008"
+10,2009,Flex,Branco,150.000,1.0,4 portas,R$ 13.700,Hatch,Gol g4 1.0 2009 ( completo)  - 2009
+11,2015,Flex,Preto,53.631,1.0,4 portas,R$ 33.500,Passeio,HB20S Comfort Plus 1.0 TB Flex 12V Mec.  - 2015
+12,2009,Flex,Cinza,100.000,1.0,2 portas,R$ 15.900,Hatch,Venda ou troca  - 2009
+13,2014,Flex,Branco,67.500,1.0,4 portas,R$ 33.000,Hatch,VW Fox 2014 1.0 Bluemotion  - 2014
+14,2000,Gasolina,Amarelo,54.958.258,1.6,4 portas,R$ 6.000,Hatch,Vendo um Renaut clio 2000  - 2000
+15,2007,Gasolina,Cinza,98.000,1.0,2 portas,R$ 5.000,Hatch,Vende-se Ford Ka 2007  - 2007
+16,2015,Flex,Branco,34.684,1.6,4 portas,R$ 39.990,Hatch,Hyundai Hb20x  - 2015
+17,2018,Flex,Outra,32.000,1.6,2 portas,R$ 60.990,Passeio,Duster Dynamique 1.6 Hi-flex 16v Mec.  - 2018
+18,2015,Gasolina,Branco,43.000,1.5,4 portas,R$ 35.990,Passeio,ETIOS CROSS 1.5 Flex 16V 5p Mec.  - 2015

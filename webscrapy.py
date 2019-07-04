@@ -18,27 +18,48 @@ for valores in links:
 for j in href:
 	try:		
 		url=urlopen(j)
+		print(url)
 		soup = BeautifulSoup(url.read(),"html.parser")
 		todos['titulo']=soup.findAll("h1", {"class": "OLXad-title"})[0].string
 		todos['preco']=soup.findAll("span", {"class": "actual-price"})[0].string
-		detalhes=soup.findAll("ul", {"class": "list square-gray"})
-		for i in detalhes:
-			ul.append(i[''])
-		print(ul)
+		temp=soup.findAll("div", {"class": "atributes"})[0].findAll("strong",{"class":"description"})
+		todos['motor']=temp[2].getText()
+		todos['portas']=temp[3].getText()
+		todos['tipo']=temp[5].getText()
+		todos['ano']=temp[6].getText()
+		todos['combustivel']=temp[7].getText()
+		todos['km']=temp[8].getText()
+		todos['cor']=temp[11].getText()
 		lista.append(todos)
 		todos={}
 	except IndexError:
 		todos={}
-'''
+
 df = pd.DataFrame(lista)
 df['titulo'] = df['titulo'].str.replace('([\n\t])', '')
 df['titulo'] = df['titulo'].str.replace('(\s{3,})', '')
+df['preco'] = df['preco'].str.replace('([\n\t])', '')
+df['preco'] = df['preco'].str.replace('(\s{3,})', '')
+df['motor'] = df['motor'].str.replace('([\n\t])', '')
+df['motor'] = df['motor'].str.replace('(\s{3,})', '')
+df['portas'] = df['portas'].str.replace('([\n\t])', '')
+df['portas'] = df['portas'].str.replace('(\s{3,})', '')
+df['tipo'] = df['tipo'].str.replace('([\n\t])', '')
+df['tipo'] = df['tipo'].str.replace('(\s{3,})', '')
+df['ano'] = df['ano'].str.replace('([\n\t])', '')
+df['ano'] = df['ano'].str.replace('(\s{3,})', '')
+df['combustivel'] = df['combustivel'].str.replace('([\n\t])', '')
+df['combustivel'] = df['combustivel'].str.replace('(\s{3,})', '')
+df['km'] = df['km'].str.replace('([\n\t])', '')
+df['km'] = df['km'].str.replace('(\s{3,})', '')
+df['cor'] = df['cor'].str.replace('([\n\t])', '')
+df['cor'] = df['cor'].str.replace('(\s{3,})', '')
 
 
 print(df.columns.values)
 df.to_csv('webscraping.csv')
 
-	
+'''	
 
 while (page <= 1):
     end = "https://rn.olx.com.br/autos-e-pecas?o="+str(page)
