@@ -3,19 +3,1108 @@
 1,2013,Gasolina,Preto,73.000,2.0 - 2.9,4 portas,R$ 109.900,SUV,Evoque Dynamic 2.0 si4 4wd 2013 impecável único dono!  - 2013
 2,2017,Diesel,Branco,85.000,2.0 - 2.9,4 portas,R$ 113.900,SUV,Compass longitude diesel  - 2017
 3,2008,Flex,Cinza,196.000,1.0,2 portas,R$ 9.999,Hatch,Excelente oportunidade  - 2008
-4,2008,Flex,Cinza,196.000,1.0,2 portas,R$ 9.999,Hatch,Excelente oportunidade  - 2008
-5,2010,Flex,Preto,93.512,2.0 - 2.9,4 portas,R$ 29.900,SUV,Tucson 2010  - 2010
-6,2012,Flex,Cinza,126.900,1.0,4 portas,R$ 19.500,Sedã,GM-Chevrolet Classic 1.0 8v Flex-2012  - 2012
-7,2001,Diesel,Preto,101.000,2.0 - 2.9,4 portas,R$ 32.900,Van/Utilitário,Pajero Sport impecável  - 2001
-8,2016,Flex,Branco,48.890,1.0,4 portas,R$ 33.900,Hatch,Kia picanto ex4 1.0 2015/2016  - 2016
-9,2018,Flex,Branco,25.600,1.6,4 portas,R$ 38.500,Sedã,Volkswagen voyage 2018  - 2018
-10,1980,Gás Natural,Azul,100.000,1.6,2 portas,R$ 25.999,Passeio,Jeep Willys 4x4 (fibra) 1978 com DH e GNV 
-11,2015,Flex,Branco,40.000,1.4,2 portas,R$ 33.900,Van/Utilitário,Strada 2015 40000 rodado  - 2015
-12,2018,Flex,Preto,61.500,1.0,4 portas,R$ 40.990,Sedã,Versa Conforto 1.0 2018  - 2018
-13,2015,Gás Natural,Branco,104.000,1.4,2 portas,R$ 26.800,Pick-up,Montana ls 1.4 completa 2015  - 2015
-14,2016,Flex,Branco,53.600,1.6,4 portas,R$ 30.990,Hatch,Vw - Volkswagen Gol  - 2016
-15,2014,Flex,Cinza,73,1.0,4 portas,R$ 28.900,Passeio,Palio attractive único dono impecável!  - 2014
-16,2011,Flex,Verde,60.000,1.4,4 portas,R$ 21.990,Hatch,Agile LTZ 1.4 8v Flex 2011 Completo Entrada 2.000 + parcelas 75500  - 2011
-17,2014,Flex,Branco,97.800,1.8,4 portas,R$ 41.990,Van/Utilitário,Gm/Spin Ltz 1.8 7Lugares !!!  - 2014
-18,2016,Flex,Branco,37.000,1.6,4 portas,R$ 40.990,Hatch,Ford New Fiesta Hatch SE 1.6 manual extra!  - 2016
-19,2018,Flex,Branco,11.552,1.0,4 portas,R$ 38.900,Hatch,HB20 Confort 1.0 2018  - 2018
+4,2010,Flex,Preto,93.512,2.0 - 2.9,4 portas,R$ 29.900,SUV,Tucson 2010  - 2010
+5,2012,Flex,Cinza,126.900,1.0,4 portas,R$ 19.500,Sedã,GM-Chevrolet Classic 1.0 8v Flex-2012  - 2012
+6,2001,Diesel,Preto,101.000,2.0 - 2.9,4 portas,R$ 32.900,Van/Utilitário,Pajero Sport impecável  - 2001
+7,2016,Flex,Branco,48.890,1.0,4 portas,R$ 33.900,Hatch,Kia picanto ex4 1.0 2015/2016  - 2016
+8,2018,Flex,Branco,25.600,1.6,4 portas,R$ 38.500,Sedã,Volkswagen voyage 2018  - 2018
+9,1980,Gás Natural,Azul,100.000,1.6,2 portas,R$ 25.999,Passeio,Jeep Willys 4x4 (fibra) 1978 com DH e GNV 
+10,2015,Flex,Branco,40.000,1.4,2 portas,R$ 33.900,Van/Utilitário,Strada 2015 40000 rodado  - 2015
+11,2018,Flex,Preto,61.500,1.0,4 portas,R$ 40.990,Sedã,Versa Conforto 1.0 2018  - 2018
+12,2015,Gás Natural,Branco,104.000,1.4,2 portas,R$ 26.800,Pick-up,Montana ls 1.4 completa 2015  - 2015
+13,2016,Flex,Branco,53.600,1.6,4 portas,R$ 30.990,Hatch,Vw - Volkswagen Gol  - 2016
+14,2014,Flex,Cinza,73,1.0,4 portas,R$ 28.900,Passeio,Palio attractive único dono impecável!  - 2014
+15,2011,Flex,Verde,60.000,1.4,4 portas,R$ 21.990,Hatch,Agile LTZ 1.4 8v Flex 2011 Completo Entrada 2.000 + parcelas 75500  - 2011
+16,2014,Flex,Branco,97.800,1.8,4 portas,R$ 41.990,Van/Utilitário,Gm/Spin Ltz 1.8 7Lugares !!!  - 2014
+17,2016,Flex,Branco,37.000,1.6,4 portas,R$ 40.990,Hatch,Ford New Fiesta Hatch SE 1.6 manual extra!  - 2016
+18,2018,Flex,Branco,11.552,1.0,4 portas,R$ 38.900,Hatch,HB20 Confort 1.0 2018  - 2018
+19,2018,Flex,Branco,33.600,1.0,4 portas,R$ 32.900,Hatch,Vw - Volkswagen Gol  - 2018
+20,2011,Gasolina,Branco,178.000,1.0,2 portas,R$ 13.000,Van/Utilitário,Hafei Towner JR Baú  - 2011
+21,2009,Gasolina,Azul,128,2.0 - 2.9,4 portas,R$ 32.500,SUV,Grand Vitara 2009 Manual  - 2009
+22,2015,Flex,Prata,79.000,1.8,4 portas,R$ 52.990,Sedã,Civic 2015 LXS AUTOMÁTICO  - 2015
+23,2019,Flex,Prata,49.397,1.6,4 portas,R$ 46.890,Passeio,Renault Sandero 1.6 16v sce flex stepway expression manual  - 2019
+24,2017,Flex,Preto,67.000,1.4,4 portas,R$ 48.990,Hatch,Onix LTZ 1.4 6 Marchas | Único Dono | Igual as Fotos | Extra | Emplacado 2019 | Revisado  - 2017
+25,2006,Gasolina,Cinza,116.000,1.8,4 portas,R$ 24.999,Sedã,Corolla xei Automático Oportunidade Diferenciado Troco e Financio  - 2006
+26,2007,Diesel,Prata,195.000,2.0 - 2.9,4 portas,R$ 37.500,Pick-up,L200. 4/4  - 2007
+27,2018,Flex,Cinza,23.300,1.0,4 portas,R$ 35.500,Hatch,Gm - Chevrolet Onix 1.0 completo  - 2018
+28,2017,Flex,Branco,22.292,2.0 - 2.9,4 portas,R$ 59.700,Sedã,Fluence sed dyn plus 2.0 16v flex AUT  - 2017
+29,2015,Flex,Preto,44.557,1.0,4 portas,R$ 31.000,Hatch,Renault Sandero EXPR 1.0 14/15  - 2015
+30,2017,Flex,Azul,16.700,1.0,4 portas,R$ 32.900,Hatch,Palio 1.0 attractive 2017 completo 16.000km  - 2017
+31,2014,Gás Natural,Preto,65.000,2.0 - 2.9,4 portas,R$ 44.990,Sedã,Fluence automático 2014  - 2014
+32,2013,Flex,Cinza,76.000,1.6,4 portas,R$ 29.000,Hatch,Fiat Palio 2013 Unico dono 76.000km  - 2013
+33,2008,Flex,Cinza,170.000,1.0,4 portas,R$ 16.900,Hatch,Palio fire celebration 1.0 2008 completo  - 2008
+34,2018,Flex,Branco,41.074,1.6,4 portas,R$ 42.990,Hatch,Volkswagen Fox 1.6 Confortline 2018  - 2018
+35,2011,Flex,Prata,115.000,1.4,4 portas,R$ 19.800,Sedã,Prisma 1.4 Maxx 2011  - 2011
+36,2013,Flex,Prata,83.200,1.4,4 portas,R$ 29.990,Hatch,Gm - Chevrolet Agile  - 2013
+37,2012,Flex,Preto,130.000,2.0 - 2.9,4 portas,R$ 16.000,Sedã,Nissan Sentra automático 2.0 ano 2012 16.00000  - 2012
+38,2006,Flex,Azul,0,1.0,4 portas,R$ 4.800,Passeio,Vendo pálio 2006  - 2006
+39,2010,Diesel,Azul,203.672,3.0 - 3.9,4 portas,R$ 92.000,SUV,Toyota Hilux Sw4 3.0 turbo diesel 7 lugares ano 2010  - 2010
+40,2009,Flex,Preto,141.000,1.0,2 portas,R$ 14.900,Hatch,Ford Ka 2009  - 2009
+41,2015,Flex,Branco,66.470,2.0 - 2.9,4 portas,R$ 77.900,SUV,Kia Sportage EX 2.0 4x2 Revisado Garantia de fabrica Versao Top Teto Solar e Panoramico  - 2015
+42,2018,Flex,Preto,30.350,1.0,4 portas,R$ 36.990,Hatch,Ford Ka SE 1.0 2018  - 2018
+43,2012,Flex,Prata,55.000,2.0 - 2.9,4 portas,R$ 27.900,Sedã,Peugeot 408  - 2012
+44,2014,Flex,Prata,44.000,2.0 - 2.9,4 portas,R$ 49.990,SUV,PajeroTr4 2014 4x4 aut pipva 2019 pago  - 2014
+45,2011,Flex,Outra,99,1.4,4 portas,R$ 20.000,Hatch,Gm - Chevrolet Agile 1.4 LTZ Completo  - 2011
+46,2017,Diesel,Branco,38.000,2.0 - 2.9,4 portas,R$ 125.900,SUV,Jeep Compass 2017/2017 kit premium  - 2017
+47,2010,Flex,Verde,107.030,1.4,4 portas,R$ 19.800,Passeio,Fiat Idea elx 1.4  - 2010
+48,2019,Flex,Preto,36.722,1.0,4 portas,R$ 33.950,Hatch,Renault Sandero Authentique 1.0 completo 2019(de R$ 38990000 por R$ 3450000)  - 2019
+49,2016,Flex,Branco,46.233,1.6,4 portas,R$ 40.990,Hatch,Vw - Volkswagen Fox 1.6 Comfortline 2016  - 2016
+50,2008,Flex,Prata,99.000,1.6,4 portas,R$ 17.000,Hatch,Peugeot 307 Peugeot 307  - 2008
+51,2012,Diesel,Prata,114.818,2.0 - 2.9,4 portas,R$ 70.000,Pick-up,Vw Amarok Trend CD 4x4 11/12  - 2012
+52,2012,Flex,Preto,93,1.6,4 portas,R$ 6.500,Sedã,Fiesta sedan 1.6 2012  - 2012
+53,2009,Flex,Vermelho,76.000,1.0,4 portas,R$ 17.490,Hatch,Gol Trend 2009  - 2009
+54,2015,Diesel,Prata,114.835,3.0 - 3.9,4 portas,R$ 99.000,Pick-up,Toyota Hilux SR 4X4 14/15  - 2015
+55,2013,Gasolina,Preto,138.396,2.0 - 2.9,4 portas,R$ 70.000,SUV,Toyota Rav4 4X2 13/13  - 2013
+56,2013,Diesel,Verde,122.000,2.0 - 2.9,4 portas,R$ 62.990,Pick-up,Frontier  - 2013
+57,2010,Diesel,Preto,130.053,3.0 - 3.9,4 portas,R$ 65.000,Pick-up,Mitsubishi L200 HPE 10/10  - 2010
+58,2016,Flex,Vermelho,85.072,1.8,4 portas,R$ 58.000,SUV,Jeep Renegade Sport AT Flex 15/16  - 2016
+59,2013,Flex,Prata,77.480,2.0 - 2.9,2 portas,R$ 48.000,Pick-up,Gm S10 LT 4X2 Flex 12/13  - 2013
+60,2016,Flex,Vermelho,133.388,1.4,2 portas,R$ 46.000,Pick-up,Fiat Strada Working 15/16  - 2016
+61,2010,Flex,Cinza,100,1.0,4 portas,R$ 17.000,Hatch,Fiat Palio 2010 1.0 completo  - 2010
+62,2011,Gás Natural,Prata,100,1.4,4 portas,R$ 12.000,Hatch,Repasse de meriva faço contrato aceito cartão leia  - 2011
+63,2018,Flex,Branco,14.000,1.8,4 portas,R$ 62.000,SUV,Renegade 2018 flex automático  - 2018
+64,2014,Gás Natural,Branco,280.000,1.8,4 portas,R$ 36.000,Passeio,Vendo ou troco em Corolla gran Siena ou prisma  - 2014
+65,2010,Gás Natural,Cinza,16.300,1.4,4 portas,R$ 13.000,Sedã,Vendo PEGEOUT 207 GNV G5  - 2010
+66,2015,Flex,Prata,41.650,1.0,4 portas,R$ 27.400,Hatch,Vw - Volkswagen Gol G6  - 2015
+67,2014,Flex,Branco,0,1.4,4 portas,R$ 32.000,Sedã,Grand Siena Tetrafuel 2014/2014  - 2014
+68,2013,Gasolina,Prata,82,1.6,4 portas,R$ 39.900,Sedã,Venda  - 2013
+69,2019,Gasolina,Outra,1,2.0 - 2.9,2 portas,R$ 20.000,Pick-up,Ford F-75  - 2019
+70,2018,Diesel,Cinza,14.668,2.0 - 2.9,4 portas,R$ 105.000,SUV,Jeep Renegade Diesel limited  - 2018
+71,2012,Diesel,Verde,160.000,2.0 - 2.9,4 portas,R$ 62.000,Pick-up,Nissan Super Extra!  - 2012
+72,2010,Flex,Prata,185.000,1.4,4 portas,R$ 22.000,Passeio,Vendo ou troco por VAM.  - 2010
+73,2016,Flex,Branco,107.320,1.4,4 portas,R$ 34.000,Sedã,Grand Siena 1.4  - 2016
+74,2014,Gasolina,Branco,96.000,2.0 - 2.9,4 portas,R$ 54.900,SUV,Suzuki Grand Vitara 2.0 16V 4X4 5P Aut  - 2014
+75,1998,Gás Natural,Verde,10.000,1.0,4 portas,R$ 4.000,Passeio,Gol bola  - 1998
+76,2013,Flex,Prata,80.000,1.6,4 portas,R$ 25.000,Passeio,Nissan Livina S 1.6 flex ano 2013  - 2013
+77,2007,Gás Natural,Branco,3.638.000,1.8,4 portas,R$ 9.000,Sedã,Vendo ou troco siena 2007 completo  - 2007
+78,2013,Flex,Preto,86.270,2.0 - 2.9,4 portas,R$ 49.900,Sedã,Corolla xei automático 2013  - 2013
+79,2008,Flex,Prata,180.000,1.0,4 portas,R$ 14.500,Hatch,Fox 2007 2008 muito bom.14.500  - 2008
+80,2003,Gasolina,Prata,14,1.0,4 portas,R$ 12.000,Passeio,Carro  - 2003
+81,2017,Flex,Branco,26.300,1.0,4 portas,R$ 33.900,Hatch,Ford Ka se  - 2017
+82,2002,Gasolina,Prata,0,1.0,4 portas,R$ 6.500,Hatch,Fiesta 2002  - 2002
+83,2008,Flex,Prata,170.000,1.0,4 portas,R$ 15.000,Passeio,Ford Fiesta  - 2008
+84,2008,Flex,Prata,170.000,1.4,4 portas,R$ 14.000,Sedã,Vende se ou troca por carro maior  - 2008
+85,2005,Gasolina,Vermelho,125.000,1.0,4 portas,R$ 8.500,Hatch,Palio elx 1.0  - 2005
+86,2008,Flex,Prata,120.000,1.0,4 portas,R$ 17.000,Hatch,Palio Elx 2008 Extra  - 2008
+87,2009,Gasolina,Prata,130.000,2.0 - 2.9,4 portas,R$ 23.000,SUV,Sportage 2009  - 2009
+88,2015,Flex,Prata,78.000,1.0,4 portas,R$ 23.900,Sedã,Classic ls 1.0 completo 2015  - 2015
+89,2011,Flex,Prata,68.000,1.5,4 portas,R$ 33.900,Sedã,Honda City Ex 2011 Automatico  - 2011
+90,1989,Gasolina,Cinza,22.636,1.9,4 portas,R$ 350,Passeio,Verdo un monza  - 1989
+91,2007,Gasolina,Branco,117.000,1.0,2 portas,R$ 7.900,Hatch,Ford ka  - 2007
+92,2011,Diesel,Prata,111,2.0 - 2.9,4 portas,R$ 60.000,Passeio,Venda 60.000  - 2011
+93,1986,Gasolina,Amarelo,100.000,1.6,2 portas,R$ 4.000,Buggy,Buggy Buggy  - 1986
+94,2017,Diesel,Branco,87.000,2.0 - 2.9,4 portas,R$ 146.900,Pick-up,Hilux SRV 4x4 Automática Novinha! 2017/2017! Único dono  - 2017
+95,2005,Gasolina,Preto,202.000,1.7,4 portas,R$ 10.000,Passeio,Lindo civic 2005 LXL automático  - 2005
+96,2013,Flex,Branco,71,1.6,4 portas,R$ 28.500,Sedã,Polo sedan 2013 comfor  - 2013
+97,2008,Flex,Preto,110.000,1.0,4 portas,R$ 16.500,Passeio,Fiat Pálio Celebration 1.0  - 2008
+98,2002,Gasolina,Prata,100.000,4.0 ou mais,2 portas,R$ 40.000,Passeio,Pajero full 4x4  - 2002
+99,1998,Gasolina,Prata,111.111,2.0 - 2.9,2 portas,R$ 7.500,Pick-up,S10 1998 com GNV  - 1998
+100,2008,Gasolina,Prata,105.000,3.0 - 3.9,4 portas,R$ 38.000,Passeio,Sorento ano 2008 4x4 automática  - 2008
+101,2014,Gasolina,Prata,59.900,1.6,4 portas,R$ 44.500,SUV,Ecosport 1.6 2014 $44.500  - 2014
+102,2013,Gás Natural,Prata,95.000,1.6,4 portas,R$ 27.000,Hatch,Sandero Stepway 1.6 16v  - 2013
+103,2010,Diesel,Prata,140.000,3.0 - 3.9,4 portas,R$ 65.000,Passeio,Triton 3. 2 HPE 4x4 automática 2010  - 2010
+104,2010,Diesel,Prata,140.000,3.0 - 3.9,4 portas,R$ 65.000,Passeio,Triton 3. 2 HPE 4x4 automática 2010  - 2010
+105,2014,Flex,Vermelho,35.000,1.4,2 portas,R$ 15.000,Hatch,Fiat 500 1.4 Cult 2014  - 2014
+106,2015,Flex,Branco,127.000,1.4,2 portas,R$ 33.900,Pick-up,Strada  - 2015
+107,1999,Gasolina,Prata,182.359,1.0,4 portas,R$ 7.000,Sedã,Vendo ou troco  - 1999
+108,2004,Gasolina,Cinza,225.588,1.0,4 portas,R$ 7.000,Passeio,Corsa 2004  - 2004
+109,2009,Flex,Prata,139.000,1.6,4 portas,R$ 16.500,Sedã,Fiesta sedan 09/10 class 1.6 996430273  - 2009
+110,2014,Flex,Preto,125.000,1.6,4 portas,R$ 28.690,Sedã,Nissan Versa 2013/2014 1.6 16V SV 4P Manual/Completo(Único Dono)Bancos em Couro/Multimídia  - 2014
+111,2016,Gasolina,Preto,70.000,1.4,4 portas,R$ 75.000,Sedã,A3 Sedan Ambiente 1.4 2016  - 2016
+112,2014,Flex,Prata,49.000,1.0,4 portas,R$ 28.900,Passeio,Logan 2014 o mais novo de Natal  - 2014
+113,2016,Flex,Outra,50.000,1.8,4 portas,R$ 73.000,SUV,Vendo HR-V ELX 2016  - 2016
+114,2017,Flex,Branco,8.600,1.4,4 portas,R$ 38.800,Sedã,Grand Siena Attractive 1.4  - 2017
+115,2010,Gás Natural,Prata,118.055,1.6,4 portas,R$ 24.900,Passeio,Parati surf extra gnv  - 2010
+116,2018,Flex,Branco,22.000,1.4,4 portas,R$ 84.000,SUV,Tracker 2018  - 2018
+117,2016,Flex,Preto,65.126,1.0,4 portas,R$ 32.900,Hatch,Palio Atractive 1.0 2016 completo  - 2016
+118,2009,Flex,Prata,139.000,1.6,4 portas,R$ 16.500,Sedã,Fiesta sedan 09/10 class 1.6 996430273  - 2009
+119,2011,Gasolina,Cinza,114.727,1.6,4 portas,R$ 30.000,Sedã,Carro modelo Cerato  - 2011
+120,2015,Flex,Branco,127.000,1.4,2 portas,R$ 33.900,Pick-up,Strada  - 2015
+121,2013,Flex,Outra,65.990,1.8,4 portas,R$ 34.990,Sedã,Gm - Chevrolet Cobalt  - 2013
+122,2014,Flex,Cinza,94.517,1.8,4 portas,R$ 33.500,SUV,Idea super novo  - 2014
+123,2016,Flex,Branco,37.000,1.8,4 portas,R$ 60.900,SUV,Jeep renegade  - 2016
+124,2014,Flex,Prata,109.000,1.5,4 portas,R$ 33.000,Sedã,Toyota Etios XLS sendan 2013/2014  - 2014
+125,2015,Flex,Branco,69.800,1.6,4 portas,R$ 47.990,SUV,Ford Ecosport  - 2015
+126,2015,Flex,Branco,41.420,1.0,4 portas,R$ 36.900,Sedã,Hb20s 1.0 2015  - 2015
+127,2015,Flex,Preto,46.000,1.5,4 portas,R$ 35.500,Sedã,Ford Ka Sedan 1.5 2015/15 46.000 km  - 2015
+128,2016,Flex,Branco,39.000,1.0,4 portas,R$ 32.500,Hatch,Vendo hb20 1.0 comfort  - 2016
+129,2015,Flex,Preto,78.000,1.0,4 portas,R$ 6.900,Hatch,Repasso CELTa LT 2015 Completo  - 2015
+130,2003,Gasolina,Prata,200,1.0,4 portas,R$ 13.000,Hatch,Carro  - 2003
+131,2012,Flex,Vermelho,73.000,1.0,4 portas,R$ 20.000,Hatch,Vendo gol g4 2012 completo  - 2012
+132,2018,Diesel,Prata,8.000,2.0 - 2.9,4 portas,R$ 129.999,Pick-up,Nissan 8000km 2018  - 2018
+133,2008,Flex,Cinza,167.000,1.6,4 portas,R$ 14.000,Sedã,POLO SEDAN 1.6 2008 Oportunidade!  - 2008
+134,2009,Flex,Cinza,100.000,1.0,2 portas,R$ 15.900,Hatch,Venda ou troca  - 2009
+135,2014,Flex,Branco,67.500,1.0,4 portas,R$ 33.000,Hatch,VW Fox 2014 1.0 Bluemotion  - 2014
+136,2000,Gasolina,Amarelo,54.958.258,1.6,4 portas,R$ 6.000,Hatch,Vendo um Renaut clio 2000  - 2000
+137,2007,Gasolina,Cinza,98.000,1.0,2 portas,R$ 5.000,Hatch,Vende-se Ford Ka 2007  - 2007
+138,2005,Gasolina,Prata,139.167,1.0,4 portas,R$ 14.500,Hatch,Fiesta 2005  - 2005
+139,2012,Flex,Preto,97.000,1.6,4 portas,R$ 9.500,Passeio,Repasse ideal para Uber não exijo transferência  - 2012
+140,2013,Flex,Vermelho,113.247,1.3,4 portas,R$ 11.990,Hatch,Chery/ Face 1.3 2013  - 2013
+141,2011,Flex,Prata,109.000,1.6,4 portas,R$ 29.990,Hatch,Crossfox 1.6 2011 b/couro  - 2011
+142,2014,Flex,Prata,81.600,1.6,4 portas,R$ 35.900,Sedã,Hb20s 2014 1.6 comfort plus  - 2014
+143,2015,Flex,Preto,52.000,1.0,4 portas,R$ 28.500,Hatch,KA 1.0 2015 completo  - 2015
+144,2019,Flex,Preto,6.948,1.6,4 portas,R$ 48.990,Hatch,Vw - Volkswagen Fox 1.6 Conect 2019  - 2019
+145,2015,Flex,Branco,59.889,1.0,4 portas,R$ 29.990,Hatch,Vw - Volkswagen Gol 1.0 2015  - 2015
+146,2019,Flex,Branco,20.357,1.6,4 portas,R$ 43.890,Passeio,Volkswagen Gol 1.6 msi totalflex 4p manual  - 2019
+147,2019,Flex,Cinza,24.080,1.3,4 portas,R$ 42.890,Passeio,Toyota Etios 1.3 x 16v flex 4p manual  - 2019
+148,2019,Flex,Branco,35.249,1.0,4 portas,R$ 38.990,Passeio,Renault Sandero 1.0 12v sce flex expression manual  - 2019
+149,2019,Flex,Prata,21.485,1.6,4 portas,R$ 48.890,Passeio,Renault Sandero 1.6 16v sce flex stepway expression manual  - 2019
+150,2019,Flex,Prata,26.656,1.0,4 portas,R$ 38.890,Passeio,Renault Sandero 1.0 12v sce flex expression manual  - 2019
+151,2019,Flex,Cinza,21.272,1.6,4 portas,R$ 49.990,Passeio,Renault Sandero 1.6 16v sce flex stepway expression manual  - 2019
+152,2017,Flex,Preto,9.048,1.6,4 portas,R$ 57.990,Sedã,Kia Motors Cerato 1.6 AUT 2017  - 2017
+153,2018,Flex,Branco,36.385,1.0,4 portas,R$ 33.990,Passeio,Renault Kwid 1.0 12v sce flex zen manual  - 2018
+154,2013,Flex,Verde,52.000,1.0,4 portas,R$ 22.500,Sedã,Classic 2013 extra!  - 2013
+155,2019,Flex,Prata,19.954,1.6,4 portas,R$ 61.990,Passeio,Renault Duster 1.6 16v sce flex expression manual  - 2019
+156,2018,Flex,Prata,17.469,1.6,4 portas,R$ 65.990,SUV,Nissan Kicks S 16v AUT. 2018  - 2018
+157,2019,Flex,Vermelho,15.604,1.6,4 portas,R$ 67.990,Passeio,Renault Duster 1.6 16v sce flex expression manual  - 2019
+158,2014,Flex,Cinza,64.000,1.6,4 portas,R$ 38.900,Sedã,Hb20 s 1.6 confort plus completo  - 2014
+159,2019,Flex,Cinza,38.603,1.0,4 portas,R$ 42.990,Passeio,Nissan Versa 1.0 12v flex 4p manual  - 2019
+160,2018,Flex,Cinza,43.256,1.0,4 portas,R$ 42.990,Passeio,Nissan Versa 1.0 12v flex 4p manual  - 2018
+161,2013,Flex,Branco,24.737,1.6,4 portas,R$ 35.990,Hatch,Vw - Volkswagen Crossfox 1.6 2013  - 2013
+162,2011,Gasolina,Prata,94.300,3.0 - 3.9,4 portas,R$ 55.990,SUV,Kia Motors Sorento  - 2011
+163,2018,Flex,Cinza,34.154,1.0,4 portas,R$ 42.990,Passeio,Nissan Versa 1.0 12v flex 4p manual  - 2018
+164,2017,Flex,Prata,50.952,1.6,4 portas,R$ 48.990,Passeio,Hyundai Hb20s 1.6 comfort plus 16v flex 4p manual  - 2017
+165,2018,Flex,Branco,31.413,1.0,4 portas,R$ 42.990,Passeio,Ford Ka 1.0 s 12v flex 4p manual  - 2018
+166,2018,Flex,Branco,25.959,1.8,4 portas,R$ 67.990,Passeio,Fiat Doblo 1.8 mpi essence 7l 16v flex 4p manual  - 2018
+167,2018,Flex,Prata,49.700,1.0,4 portas,R$ 39.990,Passeio,Fiat Argo 1.0 firefly flex drive manual  - 2018
+168,2018,Flex,Prata,23.000,1.0,4 portas,R$ 43.000,Hatch,Hyundai Hb20  - 2018
+169,2018,Flex,Branco,39.593,1.0,4 portas,R$ 39.990,Passeio,Fiat Argo 1.0 firefly flex drive manual  - 2018
+170,2018,Flex,Branco,46.475,1.0,4 portas,R$ 37.990,Passeio,Chevrolet Onix 1.0 mpfi lt 8v flex 4p manual  - 2018
+171,2018,Flex,Prata,30.091,1.4,4 portas,R$ 50.990,Passeio,Chevrolet Prisma 1.4 mpfi lt 8v flex 4p manual  - 2018
+172,2015,Flex,Prata,78.000,1.0,4 portas,R$ 29.999,Passeio,Ka +2015 completo  - 2015
+173,2011,Diesel,Preto,56.500,2.0 - 2.9,4 portas,R$ 54.000,SUV,Kyron 2011. Mais nova do Brasil  - 2011
+174,2015,Flex,Branco,51.000,1.0,4 portas,R$ 32.990,Hatch,Hb20 2015  - 2015
+175,2018,Flex,Prata,45.157,1.0,4 portas,R$ 39.990,Passeio,Chevrolet Onix 1.0 mpfi lt 8v flex 4p manual  - 2018
+176,2016,Flex,Vermelho,88.000,1.4,4 portas,R$ 37.000,Sedã,Grand Siena Top de LinhaTroco e financio  - 2016
+177,2011,Gasolina,Prata,48.000,1.0,4 portas,R$ 3.990,Hatch,Diversos Carros com entrada a partir de 3.99000 e parcelas a partir 52900  - 2011
+178,2013,Flex,Preto,118.000,1.0,4 portas,R$ 28.990,Hatch,Onix LT com My Link | Veículo Revisado | Transferência Grátis |  - 2013
+179,2018,Flex,Branco,39.577,1.0,4 portas,R$ 34.900,Hatch,Renault Sandero 1.0 Expression 2018 completo  - 2018
+180,2009,Flex,Vermelho,59,1.0,2 portas,R$ 13.200,Hatch,Ford Ka 2009 Completo com direção hidráulica  - 2009
+181,1990,Gasolina,Azul,87.000,1.6,2 portas,R$ 25.000,Buggy,Buggy Selvagem extra  - 1990
+182,2018,Flex,Preto,52.000,1.0,4 portas,R$ 37.800,Hatch,Gm - Chevrolet Onix LT 1.0  - 2018
+183,2016,Flex,Branco,67.444,1.6,4 portas,R$ 38.990,Sedã,Vw - Volkswagen Voyage 1.6 Comfortline 2016  - 2016
+184,2006,Flex,Branco,0,1.4,4 portas,R$ 14.900,Hatch,Palio ELX 1.4 2006  - 2006
+185,2011,Flex,Prata,91.000,1.4,4 portas,R$ 22.000,Passeio,Agile 1.4 Extra  - 2011
+186,2016,Flex,Branco,0,1.8,4 portas,R$ 45.000,Passeio,Vendo spin 2016 LTZ 7 lugares com GNV  - 2016
+187,2001,Gasolina,Branco,183.000,1.0,2 portas,R$ 8.500,Hatch,Gol bola  - 2001
+188,2011,Flex,Preto,56.000,1.0,2 portas,R$ 10.000,Passeio,Clio 2011 R$ 10 mil  - 2011
+189,2017,Flex,Prata,104.000,1.8,4 portas,R$ 64.990,Sedã,Anúncio promocional corolla gli 1.8 upper flex automático 2017  - 2017
+190,2015,Flex,Branco,60.000,1.0,4 portas,R$ 18.500,Sedã,Hb20s 1.0 2015  - 2015
+191,2012,Flex,Preto,130,1.6,4 portas,R$ 22.000,SUV,Renault Duster  - 2012
+192,2016,Flex,Branco,28.900,1.6,4 portas,R$ 35.000,Hatch,Vendo New Fiesta Automático  - 2016
+193,2006,Flex,Branco,184.486,1.6,4 portas,R$ 13.800,Hatch,Gol g4 2006 1.6 completo  - 2006
+194,2013,Flex,Prata,35.400,1.5,4 portas,R$ 27.500,Hatch,C3 Origine 1.5 2013 - O mais novo de Natal!!!  - 2013
+195,1999,Gasolina,Azul,199.549,1.0,2 portas,R$ 6.000,Passeio,Corsa wind Ano 99  - 1999
+196,1999,Gasolina,Branco,19.000,1.0,2 portas,R$ 6.500,Passeio,Vendo esse palio  - 1999
+197,2011,Flex,Cinza,100.000,1.6,4 portas,R$ 13.000,Passeio,Gol G5 1.6 completo  - 2011
+198,2001,Gasolina,Cinza,1.627.332,1.8,4 portas,R$ 8.000,Hatch,Vendo gol g3 ano 2001 completo  - 2001
+199,2014,Diesel,Branco,87.839,3.0 - 3.9,4 portas,R$ 145.000,Pick-up,Picape show de bolo a única do RN!!! Hilux SW4 3.0 4x4 SRV 2014 - Caicó/RN  - 2014
+200,2011,Flex,Verde,83.000,1.4,4 portas,R$ 19.900,Hatch,Oportunidade agile ltz 1.4  - 2011
+201,2018,Flex,Branco,34.200,1.4,2 portas,R$ 40.990,Pick-up,Strada CS 1.4 Hard Working 2018  - 2018
+202,2014,Flex,Verde,0,1.0,4 portas,R$ 23.900,Hatch,Uno vivace 2014  - 2014
+203,2015,Flex,Branco,83.600,1.0,4 portas,R$ 28.990,Hatch,Ford Ka SE 1.0 hatch completo  - 2015
+204,2015,Flex,Vermelho,112.000,1.4,4 portas,R$ 42.990,Van/Utilitário,Fiat/Strada Working 1.4 completo!!!  - 2015
+205,2017,Flex,Azul,16.009,2.0 - 2.9,4 portas,R$ 80.990,SUV,Hyundai Creta 2.0 Prestige 2017  - 2017
+206,2014,Flex,Vermelho,154.700,1.0,4 portas,R$ 21.900,Hatch,Clio 1.0 4 portas completo 2014/14  - 2014
+207,2018,Flex,Branco,23.887,1.0,4 portas,R$ 35.490,Hatch,35.49000  - 2018
+208,2014,Flex,Amarelo,87.000,1.0,4 portas,R$ 34.000,Sedã,Hb20s 1.0 2014  - 2014
+209,2017,Flex,Preto,16.997,1.6,4 portas,R$ 43.900,Hatch,New fiesta 1.6 sel hatch 2017  - 2017
+210,2013,Diesel,Branco,236.511,3.0 - 3.9,4 portas,R$ 75.000,Pick-up,Triton l200 gls 3.2 diesel 2013  - 2013
+211,2014,Flex,Preto,67.000,2.0 - 2.9,4 portas,R$ 38.900,SUV,Hyundai tucson gls 2.0  - 2014
+212,2014,Flex,Prata,75.000,1.4,4 portas,R$ 33.900,Sedã,SIENA 1.4 8v EL 2014  - 2014
+213,2007,Flex,Verde,165.000,1.0,2 portas,R$ 14.000,Hatch,Fiat Palio  - 2007
+214,2009,Flex,Prata,0,1.0,2 portas,R$ 4.800,Passeio,Ford ka 2009 Flex pra interior  - 2009
+215,2005,Gasolina,Prata,0,1.6,2 portas,R$ 5.900,Van/Utilitário,Ford Courier  - 2005
+216,2006,Gasolina,Prata,0,1.0,2 portas,R$ 6.500,Passeio,Ford Ka+ Carro  - 2006
+217,2010,Flex,Cinza,86.000,1.0,4 portas,R$ 16.990,Passeio,Vendo Fiat/Palio 2010 em perfeito estado  - 2010
+218,2015,Flex,Branco,66.470,2.0 - 2.9,4 portas,R$ 77.900,SUV,Kia Sportage EX 2.0 4x2 Revisado Garantia de fabrica Versao Top Teto Solar e Panoramico  - 2015
+219,2007,Flex,Branco,204.234,1.8,4 portas,R$ 4.500,Sedã,Siena 1.8 2007  - 2007
+220,2012,Flex,Preto,89.000,1.6,4 portas,R$ 24.000,Sedã,Vw - Volkswagen Gol G5 1.6  - 2012
+221,2000,Gasolina,Branco,200.134,1.0,2 portas,R$ 6.000,Antigo,Vende Fiat uno  - 2000
+222,2008,Gasolina,Prata,180.000,2.0 - 2.9,4 portas,R$ 13.000,Sedã,Sentra SL 2.0  - 2008
+223,1998,Gasolina,Vermelho,104.000,4.0 ou mais,2 portas,R$ 45.000,Passeio,WRANGLER TJ 98/98 4x4 EXTRA  - 1998
+224,2014,Flex,Branco,98.000,1.3,4 portas,R$ 10.000,Hatch,Etios 2014  - 2014
+225,2008,Flex,Prata,118.600,1.0,4 portas,R$ 14.900,Sedã,Fiesta sedan 1.0 2008/2008  - 2008
+226,2011,Gasolina,Preto,123.000,3.0 - 3.9,4 portas,R$ 50.900,SUV,Volvo XC60  - 2011
+227,1981,Diesel,Outra,170.000,2.0 - 2.9,2 portas,R$ 9.999,Pick-up,Ford F-1000 ano 1981 diesel 4 marchas  - 1981
+228,2003,Gasolina,Azul,121.000,1.8,4 portas,R$ 13.500,Hatch,Fiat Stilo  - 2003
+229,2011,Gasolina,Branco,74.000,1.0,4 portas,R$ 14.999,Pick-up,Hafei Towner Jr cabine dupla unico dono com apenas 74 mil rodados ano 2011  - 2011
+230,2018,Flex,Prata,42.773,1.0,4 portas,R$ 36.990,Passeio,Chevrolet Onix 1.0 mpfi joy 8v flex 4p manual  - 2018
+231,2017,Flex,Outra,51.700,1.0,4 portas,R$ 36.990,Hatch,Ford Ka Ford Ka  - 2017
+232,2013,Flex,Branco,89.000,1.8,4 portas,R$ 33.900,Sedã,Cobalt 2013 lt  - 2013
+233,2016,Flex,Cinza,89,1.4,4 portas,R$ 17.800,Hatch,Idea 2016 1.4 completo  - 2016
+234,2019,Flex,Branco,32.395,1.0,4 portas,R$ 37.400,Sedã,Renault Logan Authentique 1.0 2019 Completo(2019 com preço de 2017)  - 2019
+235,2014,Flex,Prata,72.848,2.0 - 2.9,4 portas,R$ 83.000,Pick-up,Hilux  - 2014
+236,2015,Flex,Branco,87.264,1.4,2 portas,R$ 45.000,Van/Utilitário,Fiat Doblo Cargo Refrigerado  - 2015
+237,2018,Flex,Prata,11.930,1.4,4 portas,R$ 117.990,SUV,Audi Q3  - 2018
+238,2019,Diesel,Branco,16.000,2.0 - 2.9,4 portas,R$ 125.900,Pick-up,Toro Volcano At 9 2019 a mais top da categoria  - 2019
+239,2017,Flex,Preto,22.000,2.0 - 2.9,4 portas,R$ 66.790,SUV,Renault Duster 2.0  - 2017
+240,2016,Flex,Vermelho,38.029,1.8,4 portas,R$ 70.990,SUV,Honda Hr-v 1.8 EX 2016  - 2016
+241,2002,Gasolina,Azul,258.643,1.0,2 portas,R$ 7.300,Hatch,Fiesta 2002  - 2002
+242,2016,Flex,Prata,7.835,1.0,4 portas,R$ 27.990,Hatch,Fiat Palio  - 2016
+243,2019,Flex,Branco,28.025,1.0,4 portas,R$ 43.990,Hatch,Ônix 1.0 LT  - 2019
+244,2015,Flex,Prata,68.130,1.5,4 portas,R$ 44.900,Hatch,Honda Fit 1.5 Flexone 2015  - 2015
+245,2015,Flex,Branco,41.000,1.5,4 portas,R$ 31.900,Hatch,C3 1.5 2015 COMPLETO - 41.000 km CARRO EXTRA !!  - 2015
+246,2010,Flex,Preto,185.000,1.0,4 portas,R$ 16.900,Hatch,Fiat uno mille way 2010 completo R$16.900  - 2010
+247,2014,Flex,Prata,64.000,1.0,4 portas,R$ 21.990,Hatch,Ford Fiesta com Air Bag e Freios ABS  - 2014
+248,2013,Flex,Vermelho,70.000,1.6,4 portas,R$ 25.990,Hatch,March 1.6 S 2013 Completo Entrada 5.990 + parcelas 69900  - 2013
+249,2018,Flex,Branco,33.600,1.0,4 portas,R$ 32.900,Hatch,Vw - Volkswagen Gol  - 2018
+250,2017,Flex,Preto,67.000,1.4,4 portas,R$ 48.990,Hatch,Onix LTZ 1.4 6 Marchas | Único Dono | Igual as Fotos | Extra | Emplacado 2019 | Revisado  - 2017
+251,2014,Flex,Preto,67.000,2.0 - 2.9,4 portas,R$ 38.900,SUV,Hyundai tucson gls 2.0  - 2014
+252,2014,Flex,Prata,87.648,1.0,4 portas,R$ 27.900,Sedã,Logan Expression 1.0 2014 Conservado  - 2014
+253,2011,Flex,Vermelho,78.000,1.4,2 portas,R$ 32.000,Pick-up,Strada 2011 em caicó  - 2011
+254,2013,Flex,Preto,48.100,2.0 - 2.9,4 portas,R$ 47.900,Sedã,Corolla Xei 2013 extra  - 2013
+255,2013,Gasolina,Prata,0,2.0 - 2.9,4 portas,R$ 19.900,SUV,Grand vitara 2013 repasse  - 2013
+256,1995,Gasolina,Verde,10.000,1.0,2 portas,R$ 4.500,Hatch,Vendo ou troco por moto do meu interesse!  - 1995
+257,2004,Gás Natural,Branco,265.000,1.8,4 portas,R$ 5.500,SUV,Meriva 1.8 Flex e gnv 2004  - 2004
+258,2011,Diesel,Branco,205.000,3.0 - 3.9,4 portas,R$ 68.900,Pick-up,L200 Triton 2011 diesel cr 3.2 hpe 4x4 completa  - 2011
+259,2009,Gasolina,Preto,140.000,2.0 - 2.9,4 portas,R$ 27.900,SUV,Sportege 2009 v6 4x4  - 2009
+260,2011,Flex,Preto,130.000,1.8,4 portas,R$ 42.000,Sedã,Honda Civic LXL se  - 2011
+261,2015,Gasolina,Preto,83.000,3.0 - 3.9,4 portas,R$ 45.900,SUV,Grand cherokee 2015 ( repasse )  - 2015
+262,2008,Gasolina,Preto,154.000,2.0 - 2.9,4 portas,R$ 26.500,SUV,Tracker 2.0 4x4 2008 completo  - 2008
+263,1998,Gasolina,Vermelho,104.000,4.0 ou mais,2 portas,R$ 45.000,Passeio,WRANGLER TJ 98/98 4x4 EXTRA  - 1998
+264,1994,Gasolina,Vermelho,60.000,1.6,2 portas,R$ 10.500,Buggy,Buggy cobra a venda  - 1994
+265,2011,Gasolina,Preto,140.000,2.0 - 2.9,4 portas,R$ 28.000,Hatch,Hyundai i30 GLS 2.0 automático  - 2011
+266,2011,Diesel,Branco,126.495,2.0 - 2.9,4 portas,R$ 29.000,SUV,Korando Ssangyong R$ 29.00000 + 39 Parcelas de R$ 81200  - 2011
+267,2018,Flex,Preto,41.975,1.5,4 portas,R$ 42.990,Sedã,Ford Ka+ 1.5 Sedan 2018  - 2018
+268,2018,Flex,Branco,23.000,1.6,4 portas,R$ 71.500,SUV,Excelente oportunidade  - 2018
+269,2018,Diesel,Vermelho,34.000,2.0 - 2.9,4 portas,R$ 105.000,Pick-up,Fiat Toro Volgano 2.0 turbo diesel ano 2018/2018 km 34.000. Estado de nova  - 2018
+270,2010,Diesel,Cinza,112.500,2.0 - 2.9,4 portas,R$ 92.000,SUV,Land Rover Discovery4 SE 2.7 único dono!  - 2010
+271,2014,Flex,Branco,74.500,2.0 - 2.9,4 portas,R$ 69.900,SUV,Rav 4  - 2014
+272,2009,Flex,Prata,110.000,1.6,4 portas,R$ 24.000,Van/Utilitário,Cangu 2009  - 2009
+273,2014,Flex,Preto,34.446,1.4,4 portas,R$ 33.990,Sedã,Gm/Cobalt Lt 1.4 Completo!!  - 2014
+274,2018,Flex,Branco,19.271,1.0,4 portas,R$ 34.990,Hatch,Uno Drive 1.0 Extra 2018 0km Caicó/RN  - 2018
+275,2018,Flex,Cinza,34.668,1.4,4 portas,R$ 58.990,Sedã,Gm - Chevrolet Prisma ltz  - 2018
+276,2014,Gás Natural,Prata,107.000,1.4,4 portas,R$ 20.000,Sedã,Grand Siena Tetrafuel para Uber - Leia o Anúncio!  - 2014
+277,2008,Flex,Preto,184.000,1.0,4 portas,R$ 13.900,Hatch,Ford Fiesta 2008 completo R$13.900  - 2008
+278,2012,Gasolina,Preto,100.000,2.0 - 2.9,4 portas,R$ 27.500,Hatch,Sx4 2012  - 2012
+279,2013,Flex,Prata,200,1.0,4 portas,R$ 17.900,Sedã,Classic 2013  - 2013
+280,2008,Flex,Prata,149.000,2.0 - 2.9,4 portas,R$ 27.500,SUV,Pajero manual TR4 - Extra 2008 - a mais nova de Natal  - 2008
+281,2000,Gás Natural,Branco,960.000,2.0 - 2.9,4 portas,R$ 10.500,Passeio,Parati completa toda revisada gás 17 metrô  - 2000
+282,2015,Diesel,Prata,82.000,3.0 - 3.9,4 portas,R$ 100.000,Pick-up,L200 triton hpe 2014/2015  - 2015
+283,2018,Flex,Branco,33.000,1.3,4 portas,R$ 43.990,Hatch,Etios Hatch 1.3 X 2018 completo único dono extra todo revisado!  - 2018
+284,2018,Flex,Branco,37.174,1.5,4 portas,R$ 43.890,Passeio,Ford Ka + 1.5 se 16v flex 4p manual  - 2018
+285,2009,Gasolina,Preto,12.607,2.0 - 2.9,4 portas,R$ 34.000,SUV,Gran vitara 4x4  - 2009
+286,2015,Flex,Vermelho,82.000,1.4,2 portas,R$ 43.999,Pick-up,Fiat Strada Cab Dupla 3 Portas Oportunidade Conservada Troco e Financio  - 2015
+287,2016,Flex,Prata,45.000,1.0,4 portas,R$ 45.000,Hatch,Citroen C3  - 2016
+288,2018,Gasolina,Branco,25.600,1.6,4 portas,R$ 38.500,Passeio,Voyage Trendline 1.6 T.flex 8v 4p  - 2018
+289,2018,Flex,Preto,46.000,1.0,4 portas,R$ 37.990,Hatch,Ford Ka SE | Completo | Revisado | Transferência Grátis | Aqui você troca e recebe o Troco  - 2018
+290,2007,Flex,Branco,204.234,1.8,4 portas,R$ 4.500,Sedã,Siena 1.8 2007  - 2007
+291,2016,Flex,Vermelho,23.000,1.8,4 portas,R$ 54.999,SUV,Jeep Renegade Oportunidade Troco e Financio!  - 2016
+292,2009,Flex,Preto,14.648,2.0 - 2.9,4 portas,R$ 21.500,Hatch,Astra 2009 completo  - 2009
+293,2008,Flex,Cinza,194,1.4,4 portas,R$ 11.500,Hatch,Peugeot 206  - 2008
+294,2010,Flex,Branco,102.000,1.0,4 portas,R$ 13.000,Passeio,Fiat Uno  - 2010
+295,1997,Gasolina,Cinza,86,1.0,2 portas,R$ 4.200,Hatch,Palio Ed 97 básico  - 1997
+296,2015,Flex,Prata,55.000,1.8,4 portas,R$ 60.900,Passeio,Toyota Corolla 2015 GLi 1.8 Flex  - 2015
+297,2001,Gasolina,Prata,266.272,1.7,4 portas,R$ 13.500,Sedã,Honda Civic Extra 2001  - 2001
+298,2015,Flex,Branco,42.100,1.6,4 portas,R$ 41.500,Hatch,C3 Tendence Automático  - 2015
+299,2017,Flex,Cinza,55.820,1.0,4 portas,R$ 34.900,Passeio,Renault Sandero 2016/2017 1.0 Expression  - 2017
+300,2012,Flex,Prata,73.413,1.0,4 portas,R$ 22.900,Hatch,Gol G5 2012  - 2012
+301,2016,Flex,Azul,33.000,1.3,4 portas,R$ 35.000,Hatch,Toyota Etios hatch super novo  - 2016
+302,1996,Gasolina,Prata,150.000,1.0,2 portas,R$ 1.800,Passeio,Uno só g1 240 reais para emplacar  - 1996
+303,2010,Flex,Preto,80.000,1.0,4 portas,R$ 19.000,Sedã,Siena Fire 1.0 09/10  - 2010
+304,2010,Flex,Preto,80.000,1.0,4 portas,R$ 19.000,Sedã,Siena Fire 1.0 09/10  - 2010
+305,2011,Flex,Vermelho,107,1.8,4 portas,R$ 24.500,Passeio,Fiet Stilo 2011  - 2011
+306,2015,Flex,Cinza,48.000,1.5,4 portas,R$ 49.000,Sedã,Honda City  - 2015
+307,2009,Flex,Cinza,160.000,1.8,2 portas,R$ 25.000,Pick-up,Fiat Strada  - 2009
+308,2011,Flex,Cinza,106.960,1.8,4 portas,R$ 36.900,Passeio,Toyota Corolla 2010/2011 1.8 XLI 16V 4P  - 2011
+309,2008,Gasolina,Prata,205,1.8,2 portas,R$ 25.000,Passeio,Vendo Honda Cívic 208  - 2008
+310,2010,Flex,Outra,97.000,1.0,4 portas,R$ 21.500,Sedã,Siena EL 1.0 2010  - 2010
+311,2018,Flex,Vermelho,37.000,1.0,4 portas,R$ 11.000,Hatch,Repasso Renault Sandero 2018  - 2018
+312,2018,Flex,Branco,39.577,1.0,4 portas,R$ 34.900,Hatch,Renault Sandero 1.0 Expression 2018 completo  - 2018
+313,2016,Flex,Branco,91.392,1.6,4 portas,R$ 35.900,Sedã,Grand siena essence 1.6 16v  - 2016
+314,2015,Flex,Preto,44.557,1.0,4 portas,R$ 31.000,Hatch,Renault Sandero EXPR 1.0 14/15  - 2015
+315,2013,Flex,Preto,61.000,2.0 - 2.9,4 portas,R$ 30.900,SUV,Oportunidade única jamais vista!!! Duster 2.0 automático 2013 o melhor! 61mil/km apenas  - 2013
+316,2007,Diesel,Prata,186.000,3.0 - 3.9,4 portas,R$ 72.990,Pick-up,SW4 2007 3.0 automatica diesel completa  - 2007
+317,2010,Flex,Prata,61,1.0,2 portas,R$ 12.999,Hatch,Ka extra único dono troco financio 2010  - 2010
+318,2015,Flex,Cinza,28.858,1.8,4 portas,R$ 64.990,SUV,Gm - Chevrolet Tracker LTZ 2015  - 2015
+319,2018,Flex,Branco,39.520,1.8,4 portas,R$ 64.990,Passeio,Fiat Doblo 1.8 mpi essence 7l 16v flex 4p manual  - 2018
+320,2014,Flex,Cinza,61,1.4,2 portas,R$ 44.500,Pick-up,Strada cd 1.4 fire flex ano 2014/2014 carro de único dono  - 2014
+321,2013,Flex,Branco,68.000,1.0,4 portas,R$ 27.000,Hatch,Vw - Volkswagen Fox  - 2013
+322,2017,Diesel,Branco,39.000,2.0 - 2.9,4 portas,R$ 125.000,Van/Utilitário,Frontier  - 2017
+323,2014,Diesel,Prata,90.000,2.0 - 2.9,4 portas,R$ 95.000,Pick-up,Vendas  - 2014
+324,1990,Gasolina,Branco,125.000,1.8,2 portas,R$ 5.500,Pick-up,Ford Pampa  - 1990
+325,2002,Gasolina,Branco,88.548,1.8,4 portas,R$ 9.000,Passeio,Gol g3 ano 2002 motor 1.8 8v ap  - 2002
+326,2001,Gasolina,Verde,200.000,1.0,2 portas,R$ 8.000,Hatch,Celta 2001 básico  - 2001
+327,2014,Gasolina,Prata,1,2.0 - 2.9,4 portas,R$ 41.990,Passeio,Tucson GLS 2.0 Automática 2014 completo impecável  - 2014
+328,2018,Flex,Branco,34.048,1.0,4 portas,R$ 40.990,Sedã,Hyundai HB20s 1.0 Confort Plus 2018 Completo  - 2018
+329,2016,Flex,Cinza,82.400,1.0,4 portas,R$ 29.900,Passeio,Fiat Uno EVO Attractive 8v Flex Revisado e na garantia de fabrica 2016  - 2016
+330,2013,Diesel,Branco,249.520,2.0 - 2.9,4 portas,R$ 73.900,Pick-up,VW- Volkswagen Amarok 2013  - 2013
+331,2016,Flex,Branco,66.000,1.4,4 portas,R$ 33.900,Hatch,Palio 1.4 2016  - 2016
+332,2016,Flex,Branco,52.000,1.6,4 portas,R$ 40.999,Sedã,Nissan Versa 2016  - 2016
+333,2016,Flex,Prata,79.998,1.6,4 portas,R$ 38.990,Sedã,Grand Siena 1.6 essence 2016 completo  - 2016
+334,2012,Flex,Prata,108.900,1.4,4 portas,R$ 16.900,Hatch,Jac J3 1.4 2012 completo R$16.900  - 2012
+335,2011,Flex,Vermelho,152.356,1.0,4 portas,R$ 19.500,Hatch,VW-Gol G5 1.0 8v Flex-2011  - 2011
+336,2011,Flex,Prata,117.825,1.6,2 portas,R$ 20.000,Pick-up,Perfeita para Trabalhar!!! Courier L 1.6 Flex 2011  - 2011
+337,2019,Flex,Prata,26.599,1.6,4 portas,R$ 48.990,Hatch,Sandero stepway  - 2019
+338,2018,Flex,Branco,17.108,1.6,2 portas,R$ 41.900,Van/Utilitário,Saveiro 2018  - 2018
+339,2014,Flex,Prata,133.000,1.6,2 portas,R$ 29.900,Van/Utilitário,Vw - Volkswagen Saveiro AR-VE-TE-DH  - 2014
+340,2010,Flex,Verde,115.000,1.0,4 portas,R$ 17.000,Hatch,Palio  - 2010
+341,2019,Flex,Branco,28.000,1.0,4 portas,R$ 36.660,Hatch,Hyundai Hb20 1.0  - 2019
+342,1986,Gasolina,Outra,122.888,1.6,2 portas,R$ 12.000,Passeio,Fusca 1.6  - 1986
+343,2012,Flex,Preto,82.000,1.0,2 portas,R$ 17.990,Hatch,Ford Ka | Completo | Carro da Cidade de Currais Novos | Revisado | Transferência Grátis  - 2012
+344,2016,Flex,Outra,50.000,1.8,4 portas,R$ 73.000,SUV,Vendo HR-V ELX 2016  - 2016
+345,1997,Diesel,Verde,0,3.0 - 3.9,4 portas,R$ 33.000,SUV,Toyota Hilux sw4  - 1997
+346,2005,Gasolina,Preto,200,1.8,4 portas,R$ 22.000,Sedã,Corolla XEi 2005 Automático muito novo tb  - 2005
+347,2016,Flex,Prata,30.682,1.3,4 portas,R$ 36.900,Hatch,Toyota Etios  - 2016
+348,2002,Gasolina,Prata,154.000,2.0 - 2.9,4 portas,R$ 9.000,Passeio,X-Sara 2.0 16V - Urgente!!!  - 2002
+349,2015,Flex,Preto,41.200,2.0 - 2.9,4 portas,R$ 86.900,Sedã,Bmw 320i active flex 2.0 extra!  - 2015
+350,2014,Flex,Prata,72.000,1.6,4 portas,R$ 32.500,Hatch,New fiesta se 1.6 2014  - 2014
+351,2010,Gasolina,Vermelho,30.000,1.0,2 portas,R$ 13.000,Hatch,Ford ka 2010  - 2010
+352,2015,Flex,Prata,101.000,1.4,4 portas,R$ 33.500,Sedã,Grand Siena 1.4 2015 attractive completo  - 2015
+353,2012,Flex,Prata,125.000,2.0 - 2.9,4 portas,R$ 27.900,Passeio,Hyundai i30 2012 manual  - 2012
+354,2013,Flex,Branco,8,1.0,4 portas,R$ 28.500,Passeio,Hb20 1.0 2013  - 2013
+355,2013,Diesel,Preto,138.000,3.0 - 3.9,4 portas,R$ 109.990,Pick-up,Pajejo full 7 lugares 2013 3.2 hpe 4x4 dieselautomático completa  - 2013
+356,2013,Flex,Cinza,56.000,1.0,4 portas,R$ 23.800,Sedã,Fiesta 1.0 sedan 2013  - 2013
+357,2014,Flex,Vermelho,78.000,1.4,4 portas,R$ 44.990,Pick-up,Fiat strada 2014 extra  - 2014
+358,2014,Flex,Prata,56.200,1.5,4 portas,R$ 32.990,Hatch,Toyota Etios  - 2014
+359,2015,Flex,Cinza,83.000,1.8,4 portas,R$ 67.900,SUV,Honda HR-V EX aut 2016  - 2015
+360,2018,Flex,Cinza,41.013,1.0,4 portas,R$ 37.499,Sedã,37.49900  - 2018
+361,2016,Flex,Cinza,29.000,1.0,4 portas,R$ 39.900,Hatch,Hb20S  - 2016
+362,2014,Flex,Cinza,79.111,1.6,4 portas,R$ 29.500,Hatch,Vw - Volkswagen Fox Trend 1.6 TotalFlex  - 2014
+363,2015,Flex,Prata,39.000,1.4,4 portas,R$ 42.000,Sedã,Prisma LTZ 1.4 2015 Único dono. 39.000km  - 2015
+364,2017,Flex,Prata,26.000,2.0 - 2.9,4 portas,R$ 53.990,SUV,Tucson 2017 GLS automático  - 2017
+365,2015,Flex,Branco,56.672,1.4,2 portas,R$ 29.000,Pick-up,Gm - Chevrolet Montana  - 2015
+366,2008,Flex,Prata,118.600,1.0,4 portas,R$ 14.900,Sedã,Fiesta sedan 1.0 2008/2008  - 2008
+367,2011,Gasolina,Vermelho,67.000,1.6,4 portas,R$ 35.000,Sedã,Vendo cerato  - 2011
+368,2011,Gasolina,Vermelho,67.000,1.6,4 portas,R$ 35.000,Sedã,Vendo cerato  - 2011
+369,2008,Gasolina,Prata,180.000,2.0 - 2.9,4 portas,R$ 13.000,Sedã,Sentra SL 2.0  - 2008
+370,2000,Gasolina,Branco,200.134,1.0,2 portas,R$ 6.000,Antigo,Vende Fiat uno  - 2000
+371,1996,Gasolina,Cinza,0,1.6,4 portas,R$ 3.200,Passeio,Vendo ou troco CORSA  - 1996
+372,2014,Flex,Branco,98.000,1.3,4 portas,R$ 10.000,Hatch,Etios 2014  - 2014
+373,2017,Flex,Branco,0,1.0,4 portas,R$ 33.500,Passeio,VENDO Gol Comfortline 12v 2017 única dona  - 2017
+374,2014,Flex,Preto,67.000,2.0 - 2.9,4 portas,R$ 18.900,Sedã,C4 LOUNGE 2014 completo ( Repasse )  - 2014
+375,2015,Flex,Outra,35.000,1.5,4 portas,R$ 53.000,Sedã,Honda City EXL Top da categoria  - 2015
+376,2007,Flex,Vermelho,155.000,1.0,4 portas,R$ 14.500,Hatch,Celta 2007 Completo R$14.500  - 2007
+377,2009,Flex,Preto,93.000,1.0,4 portas,R$ 7.000,Sedã,Vendo classic 2009  - 2009
+378,2002,Gasolina,Preto,129.000,1.6,4 portas,R$ 2.333.333,Passeio,VW Golf  - 2002
+379,2014,Flex,Branco,88.000,1.6,4 portas,R$ 35.800,Sedã,Vendo Hb20s Confort plus 1.6 2014 Único dono  - 2014
+380,2006,Flex,Outra,194.000,1.8,4 portas,R$ 21.000,Sedã,Corolla 2006  - 2006
+381,2010,Gasolina,Cinza,110.000,2.0 - 2.9,4 portas,R$ 35.000,SUV,Suzuki Grand Vitara 2010 4X4  - 2010
+382,2012,Flex,Vermelho,68.000,1.6,4 portas,R$ 18.900,Hatch,Renault Sandero Stepway  - 2012
+383,2005,Álcool,Branco,0,1.0,4 portas,R$ 7.500,Sedã,Corsa Classic Spirit 2005 oportunidade!! (84)991375723zap  - 2005
+384,2012,Flex,Preto,89.000,1.6,4 portas,R$ 24.000,Sedã,Vw - Volkswagen Gol G5 1.6  - 2012
+385,2011,Flex,Vermelho,62.000,1.0,4 portas,R$ 23.790,Hatch,Fox vw - volkswagen 1.0 flex 8v 5p vermelho  - 2011
+386,2012,Flex,Prata,160.000,1.6,4 portas,R$ 14.000,Sedã,Oportunidade Siena 1.6 2012 - Batido  - 2012
+387,2013,Flex,Cinza,65.000,1.0,4 portas,R$ 23.000,Hatch,Vendo ou troco Fiat uno Vivace Itália 2013  - 2013
+388,2008,Flex,Preto,155.000,1.0,2 portas,R$ 13.500,Hatch,Celta 2008  - 2008
+389,2008,Flex,Preto,191.000,1.6,4 portas,R$ 20.000,Sedã,Polo 2007/2008 sedan  - 2008
+390,2016,Flex,Branco,40.985,1.6,4 portas,R$ 37.499,Sedã,Fiat Grand Siena Oportunidade Fiat Grand Siena 1.6 Essence ? 2016-2016 com 40 KM  - 2016
+391,2012,Flex,Branco,98,1.6,4 portas,R$ 28.000,Hatch,Vendo/Troco Palio Sporting 1.6 - leia o anúncio  - 2012
+392,2012,Flex,Branco,100,1.4,4 portas,R$ 27.500,Van/Utilitário,Vw - Volkswagen Kombi  - 2012
+393,2013,Flex,Prata,123.000,1.6,2 portas,R$ 28.000,Pick-up,Saveiro trooper  - 2013
+394,2014,Flex,Prata,87.648,1.0,4 portas,R$ 27.900,Sedã,Logan Expression 1.0 2014 Conservado  - 2014
+395,2010,Flex,Prata,61,1.0,2 portas,R$ 12.999,Hatch,Ka extra único dono troco financio 2010  - 2010
+396,2003,Gasolina,Prata,0,1.7,4 portas,R$ 8.000,Sedã,Vendo Honda 2003  - 2003
+397,2013,Flex,Branco,33.800,1.0,4 portas,R$ 25.500,Hatch,Fiat Uno Way 1.0 Top  - 2013
+398,2005,Flex,Prata,140.000,1.4,4 portas,R$ 14.500,Hatch,Pra vender logo carro Idea  - 2005
+399,2005,Flex,Prata,140.000,1.4,4 portas,R$ 14.500,Hatch,Pra vender logo carro Idea  - 2005
+400,2008,Flex,Outra,161.999,1.0,4 portas,R$ 13.700,Sedã,Vendo ou troco Fiesta Sedan  - 2008
+401,2014,Flex,Prata,81.000,2.0 - 2.9,4 portas,R$ 49.300,Sedã,Nissan Sentra SL 2.0 16V CVT flex 140cv/ GNV  - 2014
+402,2008,Flex,Preto,155.555,1.6,4 portas,R$ 26.500,Sedã,Corolla XLi  - 2008
+403,1990,Gasolina,Branco,125.000,1.8,2 portas,R$ 5.500,Pick-up,Ford Pampa  - 1990
+404,2007,Flex,Preto,11.111.111,1.4,4 portas,R$ 9.000,Passeio,Peugeot 206 sw ano 2007  - 2007
+405,1986,Gasolina,Azul,60.000,1.6,2 portas,R$ 15.000,Buggy,Vendo buggy fyber  - 1986
+406,2013,Flex,Preto,61.000,2.0 - 2.9,4 portas,R$ 30.900,SUV,Oportunidade única jamais vista!!! Duster 2.0 automático 2013 o melhor! 61mil/km apenas  - 2013
+407,2013,Flex,Cinza,150,1.8,4 portas,R$ 50.000,Sedã,Civic lxs  - 2013
+408,2006,Flex,Branco,100.000,1.4,4 portas,R$ 8.000,Van/Utilitário,Citroen C3 2006  - 2006
+409,2012,Flex,Preto,52.000,1.6,2 portas,R$ 28.900,Passeio,Citroën c3 picasso 2011/2012 1.6 flex exclusive manual  - 2012
+410,2014,Flex,Prata,109.000,1.5,4 portas,R$ 33.000,Sedã,Toyota Etios XLS sendan 2013/2014  - 2014
+411,2013,Flex,Branco,57.983,1.5,4 portas,R$ 29.900,Passeio,Citroen C3 2013/2013 1.5 Tendance 8V Flex 4P Manual  - 2013
+412,2016,Flex,Cinza,64.000,1.8,4 portas,R$ 39.000,Passeio,Spin 2016 LT automatica  - 2016
+413,2013,Gasolina,Preto,76.000,2.0 - 2.9,4 portas,R$ 41.900,SUV,Suzuki Grand Vitara 2.0 4x2 16v  - 2013
+414,2016,Flex,Vermelho,69.804,1.0,4 portas,R$ 33.900,Hatch,Ônix lt mylink 2016  - 2016
+415,2014,Flex,Preto,1.340.003,1.0,4 portas,R$ 30.000,Sedã,Carro Prisma  - 2014
+416,2014,Flex,Vermelho,69.800,1.6,4 portas,R$ 30.900,Hatch,Chevrolet Sonic LT  - 2014
+417,2014,Flex,Branco,50.066,1.5,4 portas,R$ 29.990,Hatch,Vende se Peugeot 208 Active 1.5 2014  - 2014
+418,2015,Flex,Cinza,71.000,1.5,4 portas,R$ 49.990,Hatch,Honda Fit lx ano 2014/2015  - 2015
+419,2013,Flex,Branco,84.000,2.0 - 2.9,4 portas,R$ 46.500,SUV,Pajero TR4 4x4 automático flex 13/13  - 2013
+420,2011,Flex,Vermelho,89.000,1.6,4 portas,R$ 23.900,Passeio,Sandero Stepway  - 2011
+421,2016,Diesel,Branco,52.000,2.0 - 2.9,4 portas,R$ 115.000,Pick-up,Amarok Highline 2016 tel 99983-2603  - 2016
+422,2012,Flex,Branco,83.000,1.4,4 portas,R$ 26.000,Hatch,Vendo punto 1.4 attractive  - 2012
+423,2014,Flex,Branco,53.000,1.6,4 portas,R$ 36.990,Hatch,HB20 1.6 Premium | Extra dos Extras | Impecável | 100% Original | Igual das fotos  - 2014
+424,2009,Flex,Outra,68.000,1.0,4 portas,R$ 17.000,Sedã,Vendo corsa classic spirit 2009  - 2009
+425,2002,Gasolina,Branco,88.548,1.8,4 portas,R$ 9.000,Passeio,Gol g3 ano 2002 motor 1.8 8v ap  - 2002
+426,2018,Flex,Vermelho,7.500,1.4,4 portas,R$ 79.990,Sedã,CRUZE LT 1.4 turbo 2018  - 2018
+427,2006,Flex,Cinza,152.350,1.6,4 portas,R$ 16.500,SUV,Scenic sportway top da Renault 2006  - 2006
+428,2015,Flex,Preto,26.000,1.0,4 portas,R$ 31.990,Hatch,Up 1.0 Flex | Completo | Apenas 26 mil Kms | Revisado | Transferência Grátis  - 2015
+429,2011,Diesel,Preto,91.540,2.0 - 2.9,2 portas,R$ 44.990,Pick-up,Chevrolet S10 4x2 Colina Cab Simples 2.8 MWM extra!  - 2011
+430,2008,Diesel,Prata,288.000,2.0 - 2.9,4 portas,R$ 47.990,Pick-up,Frontier sel cd 2.5 2008 4x4 diesel automática completa  - 2008
+431,2013,Gás Natural,Branco,109.000,1.8,4 portas,R$ 24.000,Sedã,Cobalt ltz 1.8 flex automático com gnv  - 2013
+432,2015,Flex,Branco,82.000,1.4,2 portas,R$ 46.500,Pick-up,Fiat Estrada working 1.4 Ano 2015/2015  - 2015
+433,2013,Flex,Prata,54.800,1.8,4 portas,R$ 37.000,Passeio,Fiat Idea/Adventure Dual.2013 completissimo  - 2013
+434,2013,Flex,Branco,74,1.4,4 portas,R$ 29.900,Passeio,Ônix 1.4  - 2013
+435,2005,Gasolina,Azul,111.111,1.0,4 portas,R$ 10.000,Passeio,Fiesta  - 2005
+436,2017,Flex,Branco,33.556,1.4,4 portas,R$ 55.990,Sedã,Gm - Chevrolet Prisma  - 2017
+437,2012,Flex,Prata,165.000,1.0,4 portas,R$ 23.900,Sedã,Voyage Trend 2012  - 2012
+438,2018,Flex,Branco,35.671,1.0,4 portas,R$ 37.990,Passeio,Chevrolet Onix 1.0 mpfi joy 8v flex 4p manual  - 2018
+439,2017,Flex,Azul,27.000,1.8,4 portas,R$ 74.990,Sedã,Corolla Gli 1.8 automático 2017 completo único dono impecável apenas 27.000km rodados  - 2017
+440,2014,Flex,Branco,74.000,2.0 - 2.9,4 portas,R$ 47.990,SUV,Mitsubishi Pajero Tr4 4x4 | 5 pneus Zeros | Revisada | Transferência Grátis  - 2014
+441,2018,Flex,Branco,31.595,1.4,2 portas,R$ 52.990,Passeio,Fiat Fiorino 1.4 mpi furgão hard working 8v flex 2p manual  - 2018
+442,2018,Flex,Vermelho,36.000,1.0,4 portas,R$ 31.590,Hatch,Fiat Mobi 1.0 Drive Completo  - 2018
+443,2016,Diesel,Preto,55.000,2.0 - 2.9,4 portas,R$ 83.990,SUV,Jeep Renegade 2.0 Logitude Diesel 4x4 2016  - 2016
+444,2018,Flex,Preto,42.845,1.0,4 portas,R$ 38.800,Hatch,Gm - Chevrolet Onix LT 1.0 2018 Completo  - 2018
+445,2016,Flex,Branco,85.000,2.0 - 2.9,4 portas,R$ 56.900,SUV,Duster 2016  - 2016
+446,2013,Flex,Prata,100,1.5,4 portas,R$ 27.999,Hatch,Citroen C3 1.5 Econômico Oportunidade Troco e Financio  - 2013
+447,2011,Gasolina,Preto,103.000,2.0 - 2.9,4 portas,R$ 37.900,SUV,Grand vitara 2011 auto  - 2011
+448,2005,Gasolina,Branco,149.000,2.0 - 2.9,4 portas,R$ 24.000,SUV,Vendo ou troco tr4 em carro do meu agrado  - 2005
+449,2015,Flex,Branco,98.150,1.0,4 portas,R$ 24.990,Sedã,Classic 1.0 LS 2015 Capa de Revista - Caicó RN  - 2015
+450,2018,Flex,Branco,25.200,1.4,2 portas,R$ 42.999,Pick-up,Fiat Strada  - 2018
+451,2017,Flex,Branco,68.733,1.0,4 portas,R$ 29.500,Hatch,Novíssimo Palio 1.0 Fire 2017 - Caicó/RN  - 2017
+452,1975,Gasolina,Azul,100.000,1.4,2 portas,R$ 18.000,Sedã,Chevette Especial 1977 Placa Preta 
+453,2016,Flex,Branco,76.000,1.3,4 portas,R$ 33.900,Hatch,Toyota/Etios 1.3 X Completo!!!  - 2016
+454,2016,Flex,Preto,34,2.0 - 2.9,4 portas,R$ 114.900,SUV,Promoção da semana! Sportage ex2 top!!!! Único dono! 34 mil km!!!  - 2016
+455,2013,Flex,Branco,125.000,1.4,4 portas,R$ 28.900,SUV,Fiat idea 1.4 2013 completa R$28.900  - 2013
+456,2018,Flex,Prata,18.478,1.8,4 portas,R$ 54.990,Van/Utilitário,Gm - Chevrolet Spin LT 1.8 5 Lugares 2018  - 2018
+457,2018,Flex,Preto,61.589,1.0,4 portas,R$ 30.990,Van/Utilitário,Uno Drive  - 2018
+458,2014,Flex,Branco,84.900,1.4,4 portas,R$ 36.900,Sedã,Prisma 1.4 lt 8v 2014  - 2014
+459,2016,Gás Natural,Branco,61.259,1.4,4 portas,R$ 43.990,Sedã,Grand Siena 1.4 2016 Tetrafuel  - 2016
+460,2017,Flex,Preto,32.000,2.0 - 2.9,4 portas,R$ 115.000,Pick-up,Hilux SRV 2.7 FLEX Ano 2017 km 32.000  - 2017
+461,2015,Flex,Branco,47.000,2.0 - 2.9,4 portas,R$ 48.900,SUV,Renault Duster  - 2015
+462,2010,Flex,Cinza,88.259,1.0,4 portas,R$ 7.000,Sedã,Corsa classic 2010  - 2010
+463,2014,Flex,Prata,59.000,1.0,4 portas,R$ 26.990,Hatch,Vendo ou troco Pálio Attractive extra!! 2013/2014  - 2014
+464,2009,Flex,Prata,12.000,2.0 - 2.9,4 portas,R$ 27.000,Sedã,Vectra eleganc Felx  - 2009
+465,2010,Flex,Preto,157.000,1.0,2 portas,R$ 14.000,Hatch,Vendo e troco por moto um celta ano 09.10 com ar  - 2010
+466,2006,Flex,Vermelho,128.000,1.0,4 portas,R$ 11.500,Hatch,Uno mille fire flex 2006  - 2006
+467,2014,Flex,Branco,32.957,1.0,4 portas,R$ 32.500,Hatch,HB 20 o melhor de Natal. 2013/2014 só com 33.000km rodados  - 2014
+468,2008,Flex,Outra,141.000,1.0,4 portas,R$ 13.000,Sedã,Classic 2008!!!  - 2008
+469,2016,Flex,Branco,77,1.6,4 portas,R$ 50.900,SUV,Duster 2016  - 2016
+470,2015,Flex,Azul,92.000,1.4,2 portas,R$ 33.900,Pick-up,Strada working 2015 1.4 completa  - 2015
+471,2004,Diesel,Verde,190.000,2.0 - 2.9,2 portas,R$ 37.000,Van/Utilitário,Troller 2004  - 2004
+472,2016,Flex,Azul,62.185,1.3,4 portas,R$ 36.900,Hatch,Toyota Etios  - 2016
+473,2017,Flex,Branco,35.000,1.0,4 portas,R$ 36.000,Hatch,Sandero 2017/17 35 mil km  - 2017
+474,2007,Gasolina,Preto,50.000,1.0,2 portas,R$ 10.000,Hatch,Ford Ka  - 2007
+475,1997,Diesel,Verde,0,3.0 - 3.9,4 portas,R$ 33.000,SUV,Toyota Hilux sw4  - 1997
+476,2018,Flex,Branco,17.392,1.4,4 portas,R$ 43.990,Hatch,Onix LT 1.4 MT Flex  - 2018
+477,2017,Flex,Prata,16.000,2.0 - 2.9,4 portas,R$ 82.900,Sedã,Corolla 2017 XEi  - 2017
+478,2014,Flex,Branco,168.000,1.8,4 portas,R$ 35.990,Passeio,Spin LTZ 7 Lugares | Gás Natural em Dias | Unica Dona | Carro daqui de Currais Novos  - 2014
+479,2019,Flex,Cinza,45.219,1.0,4 portas,R$ 37.990,Passeio,Renault Sandero 1.0 12v sce flex expression manual  - 2019
+480,2018,Flex,Branco,41.457,1.0,4 portas,R$ 35.990,Passeio,Renault Logan 1.0 12v sce flex authentique manual  - 2018
+481,2015,Gasolina,Cinza,55.000,3.0 - 3.9,4 portas,R$ 154.900,Passeio,Jeep Wrangler Unlimited Sport 3.6 v6 284cv Gasolina 2015  - 2015
+482,2018,Flex,Prata,39.000,1.8,4 portas,R$ 56.200,Van/Utilitário,Gm - Chevrolet Spin  - 2018
+483,2007,Diesel,Branco,550.000,2.0 - 2.9,2 portas,R$ 55.000,Van/Utilitário,Sprinter 313  - 2007
+484,2018,Flex,Preto,39.767,1.4,4 portas,R$ 47.690,Sedã,Gm - Chevrolet Prisma LT 1.4 - 2018 completo(IPVA 2019 GRÁTIS)  - 2018
+485,2016,Flex,Branco,35.744,1.0,4 portas,R$ 39.900,Sedã,Prisma Oportunidade Pouco Rodado ano 2016 Troco e financio  - 2016
+486,2012,Flex,Preto,1,1.6,4 portas,R$ 25.990,Sedã,Atenção UBER! Voyage iTrend 1.6 2012 Completo Entrada 1.500 + parcelas 8900  - 2012
+487,2019,Flex,Branco,8.582,1.6,4 portas,R$ 45.990,Sedã,Voyage MPI 1.6 Manual  - 2019
+488,2012,Flex,Prata,82.700,1.8,4 portas,R$ 46.900,Sedã,Toyota Corolla  - 2012
+489,2018,Flex,Branco,36.401,1.2,4 portas,R$ 39.990,Hatch,208 Active 2018  - 2018
+490,2010,Flex,Preto,127.000,1.6,4 portas,R$ 22.900,Hatch,Picasso 2010  - 2010
+491,2018,Flex,Branco,30.000,1.6,2 portas,R$ 59.900,Pick-up,Vw - Volkswagen Saveiro  - 2018
+492,2012,Flex,Preto,84.000,1.0,4 portas,R$ 17.500,Hatch,Vendo  - 2012
+493,2018,Flex,Cinza,39.466,1.6,4 portas,R$ 58.990,Sedã,Vw - Volkswagen Virtus 1.6 MSI Manual 2018  - 2018
+494,2019,Flex,Branco,7.500,1.6,4 portas,R$ 66.900,Sedã,Vw - Volkswagen Virtus  - 2019
+495,2013,Flex,Branco,90.000,1.6,4 portas,R$ 33.000,Hatch,Palio sport 1.6  - 2013
+496,1988,Gasolina,Preto,550,4.0 ou mais,2 portas,R$ 16.000,Antigo,Brasinca  - 1988
+497,2008,Flex,Preto,165.000,1.4,4 portas,R$ 13.000,Hatch,Peugeot 206 1.4 Presence  - 2008
+498,2006,Gasolina,Cinza,61.000,1.0,4 portas,R$ 16.900,Passeio,Ford fiesta 1.0 rocam 2006 oportunidade  - 2006
+499,2015,Flex,Branco,73.500,1.0,4 portas,R$ 31.900,Hatch,Ford Ka SE 1.0 Branco 2015 Ótima procedência  - 2015
+500,1997,Gasolina,Verde,990.009,1.0,2 portas,R$ 6.500,Hatch,Fiat Palio 97  - 1997
+501,2009,Flex,Vermelho,90.000,1.6,4 portas,R$ 18.990,Hatch,C3 Exclusive 1.6 Flex automático 2009 completo Entrada 1.500 + parcelas 69900  - 2009
+502,2019,Flex,Prata,26.599,1.6,4 portas,R$ 48.990,Hatch,Sandero stepway  - 2019
+503,2016,Flex,Branco,22.000,1.0,4 portas,R$ 34.990,Hatch,Hb20 1.0 2016 com apenas 22.000 km rodados  - 2016
+504,2012,Flex,Prata,121.000,1.6,4 portas,R$ 19.000,Sedã,Renault Symbol Privilége 2012 completo  - 2012
+505,2013,Flex,Branco,83.300,1.6,4 portas,R$ 30.000,Passeio,Vdo/tco sandero Stepway ripcurl  - 2013
+506,2008,Diesel,Cinza,288.000,3.0 - 3.9,4 portas,R$ 73.900,Pick-up,Hilux SRV 3.0 4x4 mecânica 2008/2008 completa  - 2008
+507,2012,Flex,Prata,125.000,2.0 - 2.9,4 portas,R$ 27.900,Passeio,Hyundai i30 2012 manual  - 2012
+508,2013,Flex,Prata,120.250,1.4,4 portas,R$ 28.900,Sedã,Fiat grand siena attractive 1.4 (2013)  - 2013
+509,2013,Flex,Branco,68.000,1.0,4 portas,R$ 27.000,Hatch,Vw - Volkswagen Fox  - 2013
+510,2010,Gasolina,Vermelho,30.000,1.0,2 portas,R$ 13.000,Hatch,Ford ka 2010  - 2010
+511,2009,Flex,Azul,179.000,1.0,2 portas,R$ 5.500,Hatch,Ford Ka 2009 - 5.50000  - 2009
+512,2013,Diesel,Preto,138.000,3.0 - 3.9,4 portas,R$ 109.990,Pick-up,Pajejo full 7 lugares 2013 3.2 hpe 4x4 dieselautomático completa  - 2013
+513,2013,Flex,Preto,62.500,1.0,4 portas,R$ 24.500,Passeio,Nissan March 1.0 S 2013 extra  - 2013
+514,2002,Gasolina,Prata,154.000,2.0 - 2.9,4 portas,R$ 9.000,Passeio,X-Sara 2.0 16V - Urgente!!!  - 2002
+515,2006,Flex,Cinza,152.360,1.6,4 portas,R$ 16.500,SUV,VENDO esse carro extra da Renault  - 2006
+516,2010,Flex,Preto,100.000,1.8,4 portas,R$ 38.900,Sedã,Toyota Corolla XEI 2010  - 2010
+517,2018,Flex,Branco,38.993,1.0,4 portas,R$ 37.990,Hatch,Ford Ka 1.0 2018 Manual  - 2018
+518,2010,Flex,Prata,150.000,1.0,4 portas,R$ 13.500,Hatch,Celta 4p 2010 completo R$13.500  - 2010
+519,2012,Flex,Prata,52,2.0 - 2.9,4 portas,R$ 37.900,SUV,Hyundai Tucson 52 mil km impecável!  - 2012
+520,2014,Diesel,Prata,133.000,3.0 - 3.9,4 portas,R$ 102.900,Pick-up,Toyota Hilux SRV top cab dupla 4X4 3.0 automática!  - 2014
+521,2019,Flex,Preto,31.648,1.0,4 portas,R$ 41.500,Sedã,Versa 1.0 flexstar  - 2019
+522,2011,Flex,Preto,115.000,1.5,4 portas,R$ 29.990,Hatch,Honda Fit 1.5 automático ano 2011 km 115.000 R$ 31.00000  - 2011
+523,2016,Flex,Branco,0,1.5,4 portas,R$ 36.500,Hatch,Etios 2016 Extra  - 2016
+524,2015,Flex,Branco,51.500,2.0 - 2.9,4 portas,R$ 48.500,SUV,Ecosport  - 2015
+525,2011,Flex,Branco,110.532,3.0 - 3.9,4 portas,R$ 54.990,SUV,Pajero Sport v6 flex 2011 automático blindado  - 2011
+526,2017,Flex,Branco,14.990,1.6,4 portas,R$ 52.900,Hatch,Hb20x 1.6 premium automático 2017  - 2017
+527,2014,Flex,Prata,45.000,1.5,4 portas,R$ 44.800,Sedã,Honda City - O mais novo!  - 2014
+528,2012,Gasolina,Preto,270,1.4,4 portas,R$ 10.000,Sedã,Carro bom e de procedência  - 2012
+529,2009,Gasolina,Preto,131,1.6,4 portas,R$ 27.000,Sedã,Kia Motors Cerato  - 2009
+530,2009,Gasolina,Azul,119.000,2.0 - 2.9,4 portas,R$ 27.800,Pick-up,Tracker  - 2009
+531,2011,Flex,Verde,74.000,1.4,4 portas,R$ 25.900,Hatch,Chevrolet Agile LTZ 1.4 Flex - 2011  - 2011
+532,2007,Diesel,Prata,186.000,3.0 - 3.9,4 portas,R$ 72.990,Pick-up,SW4 2007 3.0 automatica diesel completa  - 2007
+533,2016,Flex,Branco,104.000,1.4,4 portas,R$ 41.000,Sedã,Vendo Grand tetrafuel 1.4 8v  - 2016
+534,2015,Flex,Cinza,28.858,1.8,4 portas,R$ 64.990,SUV,Gm - Chevrolet Tracker LTZ 2015  - 2015
+535,2016,Flex,Branco,64.000,1.0,4 portas,R$ 36.990,Hatch,Hyundai Hb20 Comfort Plus | Da Frente Nova | Garantia de Fábrica | Extra  - 2016
+536,2012,Flex,Prata,60,1.4,4 portas,R$ 17.990,Hatch,Jac J3 Hatch 1.4 2012 completo Entrada de 3.990 + parcelas 55500  - 2012
+537,2018,Diesel,Branco,37.794,1.0,4 portas,R$ 37.990,Passeio,Chevrolet Onix 1.0 mpfi joy 8v flex 4p manual  - 2018
+538,2019,Flex,Prata,28.386,1.4,4 portas,R$ 50.650,Hatch,Gm - Chevrolet Onix LTZ 1.4 2019 completo  - 2019
+539,2012,Flex,Prata,71.500,2.0 - 2.9,4 portas,R$ 45.999,Sedã,Toyota Corolla XEI Automatico P Quem Gosta de qualidade Troco e Financio  - 2012
+540,2002,Gasolina,Preto,300.000,2.0 - 2.9,2 portas,R$ 17.000,Pick-up,Ranger 2.3 completa no gás  - 2002
+541,2015,Flex,Outra,99.000,1.6,4 portas,R$ 32.900,Sedã,Grand Siena 2015  - 2015
+542,2012,Flex,Prata,123.000,1.6,4 portas,R$ 27.500,Sedã,Ford Fiesta Sedan  - 2012
+543,2008,Flex,Prata,146.000,1.0,4 portas,R$ 14.900,Hatch,Fiat Palio 2008 Completo  - 2008
+544,2016,Diesel,Prata,95.000,2.0 - 2.9,4 portas,R$ 79.999,SUV,Jeep renegade  - 2016
+545,2014,Flex,Cinza,61,1.4,2 portas,R$ 44.500,Pick-up,Strada cd 1.4 fire flex ano 2014/2014 carro de único dono  - 2014
+546,2013,Flex,Preto,77.000,1.3,4 portas,R$ 26.500,Hatch,Étios XS 1.3 ano 13/13  - 2013
+547,2014,Diesel,Prata,1,3.0 - 3.9,4 portas,R$ 68.000,Pick-up,L200 Triton  - 2014
+548,2013,Flex,Branco,8,1.0,4 portas,R$ 28.500,Passeio,Hb20 1.0 2013  - 2013
+549,2016,Flex,Preto,65.126,1.0,4 portas,R$ 32.900,Hatch,Palio Atractive 1.0 2016 completo  - 2016
+550,2018,Flex,Vermelho,24.000,1.0,4 portas,R$ 31.500,Passeio,Fiat Mobi 2017 / 2018  - 2018
+551,2012,Flex,Prata,88.000,1.0,4 portas,R$ 20.000,Sedã,Gm - Chevrolet Corsa  - 2012
+552,2013,Flex,Outra,90.300,2.0 - 2.9,4 portas,R$ 36.900,Van/Utilitário,Tucson gl 2013 automática  - 2013
+553,2007,Flex,Prata,169.000,1.0,4 portas,R$ 10.000,Sedã,Lindo fiesta sedan 2007  - 2007
+554,2015,Gás Natural,Prata,0,1.8,4 portas,R$ 45.000,Passeio,Ótimo estado de conservação  - 2015
+555,2015,Flex,Branco,47.000,1.5,4 portas,R$ 36.000,Passeio,Citroen C3 Exclusive 1.5 Flex  - 2015
+556,2016,Flex,Branco,54.900,1.6,4 portas,R$ 35.900,Hatch,Palio 1.6 essence  - 2016
+557,2013,Flex,Preto,101.000,1.8,4 portas,R$ 36.900,Passeio,Nissan grand livina sl 2013 automatica 7 lugares  - 2013
+558,2015,Flex,Branco,51.500,2.0 - 2.9,4 portas,R$ 48.500,SUV,Ecosport  - 2015
+559,2014,Flex,Cinza,47.093,1.5,4 portas,R$ 33.900,Passeio,Etios 1.5 XS  - 2014
+560,2013,Flex,Preto,98.000,1.0,4 portas,R$ 22.000,Hatch,Fiat Palio economy 2013 unico dono  - 2013
+561,2014,Flex,Branco,77.000,1.6,4 portas,R$ 28.999,Hatch,Nissan March 1.6 S 2014 completo!!  - 2014
+562,2004,Diesel,Verde,190.000,2.0 - 2.9,2 portas,R$ 37.000,Van/Utilitário,Troller 2004  - 2004
+563,2018,Flex,Branco,44.894,1.6,2 portas,R$ 48.900,Pick-up,Saveiro  - 2018
+564,2014,Flex,Branco,50.000,1.6,4 portas,R$ 34.000,Sedã,Hb20  - 2014
+565,2014,Flex,Branco,52.541,2.0 - 2.9,4 portas,R$ 43.900,SUV,Renault Duster 2.0 Tech Road 2013/2014  - 2014
+566,2016,Flex,Branco,60.000,1.6,2 portas,R$ 31.800,Van/Utilitário,Volkswagen Saveiro Cs De Garagem Nova Demais Troco e Financio  - 2016
+567,2012,Flex,Preto,97.228,1.4,4 portas,R$ 25.500,Hatch,Agile ltz 2012  - 2012
+568,2019,Flex,Prata,37.465,1.0,4 portas,R$ 42.890,Passeio,Renault Logan 1.0 12v sce flex expression manual  - 2019
+569,2015,Flex,Branco,37.000,2.0 - 2.9,4 portas,R$ 63.500,SUV,Grand vitara 2015  - 2015
+570,2012,Flex,Cinza,92.565,1.0,4 portas,R$ 18.900,Hatch,Celta 1.0 2012  - 2012
+571,2015,Flex,Branco,37.000,2.0 - 2.9,4 portas,R$ 48.500,Sedã,Focus sedan 2015 automático extra  - 2015
+572,2013,Gasolina,Preto,68.000,2.0 - 2.9,4 portas,R$ 64.900,SUV,Evoque 2013 dynamic 65 mil + parcela 1540.00  - 2013
+573,2019,Flex,Vermelho,32.000,1.4,4 portas,R$ 49.990,Sedã,Prisma LT 2019  - 2019
+574,2015,Flex,Branco,46.000,1.0,4 portas,R$ 28.990,Hatch,Vw/Up Take 1.0 Total Flex 5p Completo!!!  - 2015
+575,2017,Flex,Vermelho,140,1.4,2 portas,R$ 39.900,Pick-up,Strada HD 1.4 2017/2017 novíssima  - 2017
+576,2015,Flex,Cinza,69.000,1.5,4 portas,R$ 49.500,Sedã,Honda City Ex CVT automático ano 2015/2015 km 69.000 com ipva 2019 pago.  - 2015
+577,2014,Flex,Branco,60,1.6,4 portas,R$ 5.900,Hatch,Gol G6 1.6 2014  - 2014
+578,2019,Flex,Branco,24.618,1.6,4 portas,R$ 58.990,Sedã,VW Virtus 1.6 MSI 2019  - 2019
+579,2014,Flex,Prata,72.000,1.6,4 portas,R$ 32.500,Hatch,New fiesta se 1.6 2014  - 2014
+580,2014,Flex,Cinza,47.093,1.5,4 portas,R$ 33.900,Passeio,Etios 1.5 XS  - 2014
+581,2013,Flex,Branco,86,1.5,4 portas,R$ 28.500,Hatch,C3 tendance top de linha com Teto Zenith  - 2013
+582,2018,Diesel,Vermelho,19.000,2.0 - 2.9,4 portas,R$ 179.999,SUV,Trailblaser Ltz 2018  - 2018
+583,2012,Gás Natural,Preto,144.436,1.4,4 portas,R$ 28.990,Sedã,Cobalt LT 1.4 2012 com Gás Natural Injetável  - 2012
+584,2016,Flex,Vermelho,41.000,1.0,4 portas,R$ 32.900,Sedã,Logan 2016 1.0 ExTRA !!!!  - 2016
+585,2016,Flex,Branco,63.805,1.6,4 portas,R$ 57.500,Pick-up,Caminhonete Extraaa! Oroch 1.6 Dynamique 2016 - Caicó/RN  - 2016
+586,2019,Flex,Prata,300,1.4,4 portas,R$ 57.990,Sedã,Gm - Chevrolet Prisma  - 2019
+587,2015,Diesel,Preto,1,3.0 - 3.9,4 portas,R$ 115.999,Pick-up,Oportunidade Toyota Hilux Srv cd 3.0 limited  - 2015
+588,2010,Flex,Preto,99,1.0,4 portas,R$ 18.999,Sedã,Fiat Siena EL 1.0 8v flex completo 4 Portas  - 2010
+589,2013,Gasolina,Vermelho,49.000,1.6,4 portas,R$ 30.000,Passeio,Citroen C3 picasso exclusive 2013  - 2013
+590,2017,Flex,Branco,41.143,1.6,4 portas,R$ 40.990,Hatch,Vw - Volkswagen Fox Run 1.6 2017  - 2017
+591,2018,Flex,Branco,52.000,1.4,2 portas,R$ 42.400,Hatch,Strada 2018 Cabine estendida  - 2018
+592,2012,Flex,Prata,62.000,1.6,4 portas,R$ 31.900,Hatch,Cross FOX Extra  - 2012
+593,2015,Gasolina,Outra,58.000,2.0 - 2.9,4 portas,R$ 69.900,SUV,Mitsubishi ASX 2.0 AWD 4x4 CVT Revisado concessionária Pneus Novos  - 2015
+594,2012,Gasolina,Preto,59.000,2.0 - 2.9,4 portas,R$ 34.200,SUV,Hyundai Tucson 2.0 16v Automática 2012  - 2012
+595,2017,Flex,Branco,39.000,1.0,4 portas,R$ 37.000,Hatch,Ford ka  - 2017
+596,2019,Flex,Prata,15.093,1.6,4 portas,R$ 49.990,Passeio,Sandero Stepway  - 2019
+597,2014,Flex,Prata,59.000,1.0,4 portas,R$ 20.900,Hatch,Clio 14/14 único dono  - 2014
+598,2016,Flex,Prata,54.000,1.0,4 portas,R$ 30.000,Hatch,Fiat Uno 2016 1.0 Attractive  - 2016
+599,2018,Flex,Branco,39.520,1.8,4 portas,R$ 64.990,Passeio,Fiat Doblo 1.8 mpi essence 7l 16v flex 4p manual  - 2018
+600,2013,Flex,Branco,72.000,1.6,4 portas,R$ 26.900,Hatch,Sandero 1.6 2013 Completo  - 2013
+601,2018,Flex,Branco,15.000,1.4,4 portas,R$ 95.900,Sedã,Audi A3  - 2018
+602,2013,Gás Natural,Vermelho,126.000,1.0,4 portas,R$ 21.900,Hatch,Fiat Uno Way 2013  - 2013
+603,2018,Gasolina,Branco,43.142,2.0 - 2.9,4 portas,R$ 88.900,SUV,Jeep compass 4x2 SporT 2.0 gasolina  - 2018
+604,2011,Flex,Prata,99.000,1.6,4 portas,R$ 19.990,Hatch,Peugeot 207 XS 1.6 2011 completo Financio 100% + parcelas 73700  - 2011
+605,2011,Flex,Cinza,0,1.6,4 portas,R$ 19.500,Sedã,Ford-Fiesta Sedan Class 1.6 8v Flex-2011  - 2011
+606,2014,Flex,Verde,67.000,1.4,4 portas,R$ 27.900,Hatch,Idea 1.4 2014 muito novo!!  - 2014
+607,2019,Flex,Cinza,31.983,1.6,4 portas,R$ 55.890,SUV,Renault Duster Expression 1.6 manual 2019  - 2019
+608,2014,Flex,Branco,96.000,1.4,4 portas,R$ 38.990,Hatch,Honda fit 1.4 cx automático 16v flex 4p 2014  - 2014
+609,2013,Flex,Preto,130.000,1.6,4 portas,R$ 21.900,Hatch,Ford Fiesta 1.6 2013 Completo  - 2013
+610,2017,Flex,Branco,44.000,1.6,4 portas,R$ 49.999,Sedã,Hb20s Oportunidade Troco e Financiou  - 2017
+611,2019,Flex,Branco,52.597,1.3,4 portas,R$ 41.990,Hatch,Etios  - 2019
+612,2015,Flex,Preto,46.000,1.0,4 portas,R$ 32.000,Passeio,Ka se 1.0 sedan 2015  - 2015
+613,2018,Flex,Preto,42.000,2.0 - 2.9,4 portas,R$ 85.000,Sedã,Corolla  - 2018
+614,2007,Gasolina,Branco,159.155,1.0,2 portas,R$ 10.490,Hatch,Ka  - 2007
+615,2014,Flex,Cinza,90.721,1.0,4 portas,R$ 24.500,Hatch,Gm/ Celta LT  - 2014
+616,2018,Flex,Branco,8.000,1.0,4 portas,R$ 33.990,Hatch,Fiat Mobi  - 2018
+617,2015,Flex,Branco,62.000,1.6,4 portas,R$ 47.490,SUV,Ford Ecosport 1.6 freestyle 2015 completa manual  - 2015
+618,2016,Flex,Branco,69.700,1.0,4 portas,R$ 33.000,Sedã,Fiat Siena  - 2016
+619,2011,Flex,Vermelho,112.400,1.0,4 portas,R$ 19.500,Passeio,Sandero 2011  - 2011
+620,2018,Flex,Preto,38.000,1.5,4 portas,R$ 42.100,Hatch,Toyota Etios 1.5 Completo  - 2018
+621,2013,Flex,Cinza,121.262,1.6,2 portas,R$ 25.000,Pick-up,Vw - Volkswagen Saveiro CS  - 2013
+622,2017,Diesel,Branco,39.000,2.0 - 2.9,4 portas,R$ 125.000,Van/Utilitário,Frontier  - 2017
+623,2014,Flex,Cinza,63.000,1.6,4 portas,R$ 34.900,Sedã,HB20s 1.6 sedã Premium 2014/2014 manual  - 2014
+624,2007,Gasolina,Preto,115.000,1.0,2 portas,R$ 10.400,Hatch,Ford ka única dona  - 2007
+625,2014,Flex,Vermelho,75.000,1.6,4 portas,R$ 31.000,Hatch,HB20 1.6 completo  - 2014
+626,2016,Flex,Prata,80.000.365,1.0,4 portas,R$ 36.500,Hatch,HB20 confort plus 1.0 2016  - 2016
+627,2012,Flex,Prata,125.000,2.0 - 2.9,4 portas,R$ 28.900,Sedã,Nissan Sentra S 2.0 Auto 11/12  - 2012
+628,2019,Flex,Branco,6.900,1.0,4 portas,R$ 45.500,Passeio,ONIX LT 2019 - Com apenas 6.900 KM  - 2019
+629,2016,Flex,Outra,50.000,1.8,4 portas,R$ 73.000,SUV,Vendo HR-V ELX 2016  - 2016
+630,2012,Flex,Prata,106,1.6,4 portas,R$ 11.000,Hatch,Repasse de consórcio bb  - 2012
+631,2011,Flex,Prata,193.000,1.6,4 portas,R$ 24.000,Sedã,Polo Sedan 1.6 8v Conservado  - 2011
+632,2012,Flex,Outra,168.000,1.0,4 portas,R$ 19.900,Hatch,Renault Sandero  - 2012
+633,2013,Flex,Prata,115.500,1.0,4 portas,R$ 11.700,Hatch,Repasse Uno  - 2013
+634,2018,Flex,Vermelho,24.000,1.0,4 portas,R$ 31.500,Passeio,Fiat Mobi 2017 / 2018  - 2018
+635,2010,Flex,Prata,14.000,1.0,2 portas,R$ 5.500,Hatch,Carro pra interior  - 2010
+636,2014,Diesel,Prata,90.000,2.0 - 2.9,4 portas,R$ 95.000,Pick-up,Vendas  - 2014
+637,2010,Diesel,Prata,153,3.0 - 3.9,4 portas,R$ 89.000,SUV,Sw4 IMPECÁVEL! 4 pneus novos 7 lugares  - 2010
+638,2009,Flex,Prata,102.000,2.0 - 2.9,4 portas,R$ 29.900,SUV,Pajero Tr4 2009 4x4 manual  - 2009
+639,2016,Flex,Branco,1,1.5,4 portas,R$ 36.900,Hatch,Etios 2016  - 2016
+640,2004,Diesel,Preto,260.000,2.0 - 2.9,4 portas,R$ 32.000,Pick-up,Frontier strike se 2004 4x4 DIESEL MWM completa  - 2004
+641,2011,Flex,Branco,100,1.4,4 portas,R$ 16.500,Hatch,Peugeot 207  - 2011
+642,2015,Flex,Branco,85.000,1.0,4 portas,R$ 26.900,Sedã,Voyage City 2015 /// Extra /// Emplacado 2019 ///  - 2015
+643,2002,Gasolina,Cinza,165.000,1.7,4 portas,R$ 12.000,Sedã,Civic LX 2002  - 2002
+644,2010,Gasolina,Vermelho,165.000,1.6,4 portas,R$ 11.000,Hatch,Repasse Spacfox 1.6 2010 gnv. 5G  - 2010
+645,2012,Gasolina,Preto,47.000,1.2,4 portas,R$ 16.000,Hatch,Chery Qq  - 2012
+646,2010,Flex,Vermelho,98,1.4,4 portas,R$ 17.999,Passeio,C3 xtr 1.4 flex 8v. o top!!  - 2010
+647,2010,Flex,Branco,147.226,1.4,2 portas,R$ 25.000,Van/Utilitário,Kombi nova segundo dono  - 2010
+648,2013,Flex,Branco,90.000,1.6,4 portas,R$ 32.900,Hatch,HB 20 1.6 Premium 2013 /// Automático /// IPVA 2019 pago///  - 2013
+649,2000,Gasolina,Amarelo,0,1.0,2 portas,R$ 6.000,Hatch,Oportunidade ka completo  - 2000
+650,1996,Gasolina,Vermelho,19.476,1.0,2 portas,R$ 5.500,Antigo,Vendo Gol quadrado 95/96 por 5.500R$  - 1996
+651,2016,Flex,Prata,45.000,1.8,4 portas,R$ 67.900,Sedã,Corolla GLI Upper 2016 /// Extra ///  - 2016
+652,2013,Flex,Branco,97.000,1.0,4 portas,R$ 19.900,Hatch,Renault Clio - Excelente veículo Impecável  - 2013
+653,2011,Flex,Prata,88.000,1.8,4 portas,R$ 33.500,Sedã,Civic lxl 2011  - 2011
+654,1997,Gasolina,Vermelho,99.999.999,1.0,2 portas,R$ 5.800,Passeio,Fiat uno ano (97)  - 1997
+655,2016,Flex,Branco,112.000,1.8,4 portas,R$ 40.000,Sedã,Cobalt 2016  - 2016
+656,2007,Gasolina,Prata,0,1.0,2 portas,R$ 10.000,Passeio,Vendo Ford Ka 2007 todo ok! no ponto de transferir  - 2007
+657,2000,Gasolina,Azul,230.000,2.0 - 2.9,4 portas,R$ 21.600,Passeio,Grand vitara 2000  - 2000
+658,2014,Flex,Vermelho,61.500,1.0,4 portas,R$ 25.500,Hatch,Gol G6 2014 Trend 1.0 completo  - 2014
+659,2014,Flex,Vermelho,61.500,1.0,4 portas,R$ 25.500,Hatch,Gol G6 2014 Trend 1.0 completo  - 2014
+660,2006,Gasolina,Branco,0,1.6,2 portas,R$ 8.000,Van/Utilitário,Kombi 2006  - 2006
+661,2010,Flex,Preto,80,1.5,4 portas,R$ 27.000,Hatch,Honda fit 2010 extra  - 2010
+662,2003,Gasolina,Prata,200.000,1.0,4 portas,R$ 11.500,Hatch,Celta 2003  - 2003
+663,2015,Flex,Prata,74.000,1.6,4 portas,R$ 42.000,Sedã,HB20s 1.6 - sedã - 2015/prata  - 2015
+664,2016,Flex,Branco,40.600,1.8,4 portas,R$ 63.900,SUV,Jeep renegade 2016  - 2016
+665,2015,Flex,Prata,62.000,1.5,4 portas,R$ 36.000,Sedã,Toyota Etios  - 2015
+666,2008,Flex,Prata,200,1.4,2 portas,R$ 17.000,Pick-up,Strada 2007/2008  - 2008
+667,2017,Flex,Branco,61.000,1.8,4 portas,R$ 47.000,Sedã,Vendo colbat ltz top de linha motor 1.8 2017/2017  - 2017
+668,2016,Flex,Branco,32.200,1.0,4 portas,R$ 38.500,Sedã,Ford Ka+ 2016/2017  - 2016
+669,2009,Flex,Cinza,105.000,1.4,4 portas,R$ 23.000,Hatch,Fit 2009  - 2009
+670,1999,Gasolina,Verde,1.111,1.6,4 portas,R$ 3.000,Antigo,Gol 99  - 1999
+671,1999,Gasolina,Verde,1.111,1.6,4 portas,R$ 3.000,Antigo,Gol 99  - 1999
+672,2011,Flex,Branco,98.000,1.0,4 portas,R$ 15.000,Hatch,Pra vender hoje!!! Oportunidade - Fiesta 1.0 2010/11  - 2011
+673,2004,Gasolina,Prata,80.000,1.0,2 portas,R$ 6.450,Hatch,Olx  - 2004
+674,2008,Gasolina,Preto,47.000,1.4,4 portas,R$ 28.500,Hatch,Honda fit 1.4 LXL 2008 aut. 47 mil km  - 2008
+675,1994,Gasolina,Branco,222.222,1.6,2 portas,R$ 4.600,Hatch,Escort 94 cht emplacado  - 1994
+676,1970,Gasolina,Outra,100.000,1.5,2 portas,R$ 8.000,Antigo,Vendo vw Fusca 73 
+677,2018,Flex,Branco,17.100,1.0,4 portas,R$ 37.300,Hatch,Ford KA 2018  - 2018
+678,2010,Gasolina,Vermelho,135.000,1.6,4 portas,R$ 15.000,Sedã,Kia Cerato 2010 1.6 Manual  - 2010
+679,2000,Gasolina,Branco,351.382,1.0,2 portas,R$ 7.500,Sedã,Vendo 7500$ ou troco em moto 125/150  - 2000
+680,2007,Flex,Vermelho,130.000,2.0 - 2.9,4 portas,R$ 18.000,Hatch,Chevrolet Astra  - 2007
+681,2013,Flex,Branco,84.000,2.0 - 2.9,4 portas,R$ 46.500,SUV,Pajero TR4 4x4 automático flex 13/13  - 2013
+682,2010,Flex,Prata,74.000,1.0,2 portas,R$ 12.900,Hatch,Ford ka 2010 único dono extra!!  - 2010
+683,2011,Flex,Prata,53.000,1.0,2 portas,R$ 16.900,Hatch,Ford Ka 2011  - 2011
+684,2015,Flex,Prata,134.000,1.8,4 portas,R$ 35.900,Passeio,Spin Lt 1.8 8V Econo.Flex 5P MEC  - 2015
+685,2007,Flex,Prata,169.000,1.0,4 portas,R$ 10.000,Sedã,Lindo fiesta sedan 2007  - 2007
+686,2016,Flex,Branco,29.273,2.0 - 2.9,4 portas,R$ 51.900,SUV,Tucson 2016 automático  - 2016
+687,2015,Gasolina,Azul,70.000,1.4,4 portas,R$ 70.000,Sedã,Audi A3 Audi a3  - 2015
+688,2001,Gasolina,Branco,1,1.6,4 portas,R$ 8.990,Sedã,Clio 2001 1.6 completo  - 2001
+689,2011,Flex,Prata,87.000,1.6,4 portas,R$ 25.000,Sedã,Vw - Volkswagen Voyage  - 2011
+690,2018,Flex,Branco,30.000,1.0,4 portas,R$ 37.100,Sedã,Fiat Grand Siena 1.0  - 2018
+691,2011,Flex,Prata,150,2.0 - 2.9,4 portas,R$ 27.999,Sedã,Nissan Sentra Ótimo P Uber Família Viagens Trabalho Troco e Financio  - 2011
+692,2019,Flex,Branco,17.371,1.6,4 portas,R$ 43.680,Passeio,Volkswagen Gol 1.6 msi totalflex 4p manual  - 2019
+693,2019,Flex,Prata,18.249,1.6,4 portas,R$ 46.990,Passeio,Volkswagen Voyage 1.6 msi totalflex 4p manual  - 2019
+694,2005,Diesel,Preto,217.507,2.0 - 2.9,4 portas,R$ 42.900,Van/Utilitário,Nissan Frontier  - 2005
+695,2013,Flex,Branco,0,1.4,4 portas,R$ 22.000,Hatch,Vendo agile LTZ 2013  - 2013
+696,2013,Flex,Branco,0,1.4,4 portas,R$ 22.000,Hatch,Vendo AGILE LTZ  - 2013
+697,2019,Flex,Branco,7.880,1.6,4 portas,R$ 86.500,SUV,Título: Creta 1.6 Flex Pulse Automático - 2019  - 2019
+698,2005,Gasolina,Branco,178.000,1.0,4 portas,R$ 10.900,Sedã,Siena 2005 completo (leia o anúncio)  - 2005
+699,2008,Gasolina,Azul,100.000,2.0 - 2.9,4 portas,R$ 20.500,Sedã,Sentra top 2008 completo  - 2008
+700,2013,Gasolina,Preto,76.000,2.0 - 2.9,4 portas,R$ 41.900,SUV,Suzuki Grand Vitara 2.0 4x2 16v  - 2013
+701,2013,Flex,Cinza,14.550,1.8,4 portas,R$ 36.990,SUV,Gm - Chevrolet Spin lt at 5 lugares  - 2013
+702,2008,Flex,Prata,98.134,1.0,4 portas,R$ 13.500,Hatch,Fiesta completo  - 2008
+703,2016,Flex,Vermelho,69.804,1.0,4 portas,R$ 33.900,Hatch,Ônix lt mylink 2016  - 2016
+704,2008,Diesel,Prata,213.000,3.0 - 3.9,4 portas,R$ 67.990,Pick-up,Hilux SRV 3.0 TOP | Extras das Extras | Nova | Transferência Grátis | Ipva nunca mais  - 2008
+705,2014,Flex,Cinza,22.000,2.0 - 2.9,4 portas,R$ 54.900,SUV,Vende-se Tracker ou troca  - 2014
+706,2015,Gás Natural,Branco,99.000,1.8,4 portas,R$ 33.990,Sedã,Gm - Chevrolet Cobalt Cobalt 1.8 LTZ 2015  - 2015
+707,2018,Flex,Prata,25.371,1.6,4 portas,R$ 41.600,Hatch,Hyundai Hb20 Confort Plus 1.6 2018 completo(de R$ 4369000 por R$ 4160000)  - 2018
+708,2013,Flex,Preto,98.000,1.0,4 portas,R$ 22.000,Hatch,Fiat Palio economy 2013 unico dono  - 2013
+709,2014,Flex,Prata,69.554,1.8,4 portas,R$ 56.990,Sedã,Toyota Corolla 2.0 XEI 2014  - 2014
+710,2014,Flex,Azul,89.000,1.0,4 portas,R$ 23.990,Sedã,Classic LS 1.0 Flex 8v 2014 Completo Entrada de 3.990 + parcelas 69900  - 2014
+711,2014,Diesel,Azul,0,2.0 - 2.9,4 portas,R$ 90.000,SUV,Renegade longitude 0 km 2019  - 2014
+712,2014,Flex,Prata,79.443,1.6,4 portas,R$ 31.900,Hatch,Sandero 1.6 completo stepway 2014  - 2014
+713,2017,Flex,Branco,56.000,2.0 - 2.9,4 portas,R$ 87.000,Sedã,Civic EX 2.0 automático ano 2017  - 2017
+714,1999,Gasolina,Branco,148.000,1.0,4 portas,R$ 7.000,Hatch,Fiat palio  - 1999
+715,2017,Diesel,Cinza,51.000,3.0 - 3.9,4 portas,R$ 149.900,Pick-up,Hilux srv 2017  - 2017
+716,2016,Flex,Prata,30.682,1.3,4 portas,R$ 36.900,Hatch,Toyota Etios  - 2016
+717,2012,Flex,Prata,82.000,2.0 - 2.9,4 portas,R$ 53.500,SUV,Kia Motors Sportage  - 2012
+718,1993,Diesel,Azul,279.000,4.0 ou mais,2 portas,R$ 30.000,Van/Utilitário,D20 bonanza  - 1993
+719,2011,Flex,Preto,0,1.6,4 portas,R$ 22.900,Passeio,Vendo Voyage 1.6 completão  - 2011
+720,2019,Flex,Prata,14.000,2.0 - 2.9,4 portas,R$ 91.000,Sedã,Corolla XEI 2019  - 2019
+721,2016,Flex,Branco,36.953,2.0 - 2.9,4 portas,R$ 51.000,Hatch,Renault Duster  - 2016
+722,2012,Flex,Amarelo,96.000,1.0,4 portas,R$ 26.500,Passeio,Vende-se Kia Picanto  - 2012
+723,2010,Flex,Vermelho,105.000,1.6,4 portas,R$ 17.800,Hatch,Quer Financiar seu carro?  - 2010
+724,2013,Flex,Branco,66.300,1.6,4 portas,R$ 22.900,Hatch,Sandero Expression - 2013 - 1.6 completo -Único dono - Perfeiro estado - Fiz 6 Revisões  - 2013
+725,2014,Flex,Branco,63,1.5,4 portas,R$ 31.500,Hatch,C3 2014-2014  - 2014
+726,2015,Flex,Branco,43.600,1.0,4 portas,R$ 31.000,Hatch,Renault Sandero  - 2015
+727,2008,Gasolina,Cinza,185.000,2.0 - 2.9,4 portas,R$ 27.900,Pick-up,Tracker - Top  - 2008
+728,2011,Flex,Branco,110.000,1.0,4 portas,R$ 17.000,Sedã,Classic 2011  - 2011
+729,2016,Flex,Branco,41.000,1.0,4 portas,R$ 32.999,Hatch,Ka 2016  - 2016
+730,2016,Flex,Branco,52.000,1.8,4 portas,R$ 59.900,SUV,Carro Renegade  - 2016
+731,2011,Flex,Prata,150.000,1.0,4 portas,R$ 21.000,Sedã,Voyage 1.0 2010/2011 completo  - 2011
+732,2015,Diesel,Azul,44.000,2.0 - 2.9,4 portas,R$ 148.000,SUV,Evoque Prestige 2015  - 2015
+733,2010,Flex,Preto,105.000,1.0,2 portas,R$ 13.900,Passeio,Carro de particular  - 2010
+734,2008,Flex,Preto,130.000,1.6,4 portas,R$ 12.000,Sedã,Megane Preto Dynamique 1.6 2008 Conservado  - 2008
+735,2018,Flex,Branco,43.593,1.0,4 portas,R$ 36.000,Hatch,Gm - Chevrolet Onix  - 2018
+736,1999,Gasolina,Verde,159.000,1.6,4 portas,R$ 10.000,Hatch,Palio  - 1999
+737,2008,Diesel,Preto,155.000,2.0 - 2.9,4 portas,R$ 49.000,SUV,Pajero Sport 2008 AT Diesel  - 2008
+738,2009,Flex,Preto,185.000,1.4,4 portas,R$ 13.000,Hatch,Citroën C3 GLX 1.4 2009 Flex  - 2009
+739,1995,Gás Natural,Azul,0,2.0 - 2.9,4 portas,R$ 6.300,Passeio,Monza 95 no gás e gazolina  - 1995
+740,2009,Flex,Preto,120.000,1.0,4 portas,R$ 19.000,Passeio,Vende-se veículo Siena 2009  - 2009
+741,1998,Gás Natural,Verde,140.000,1.5,4 portas,R$ 4.000,Passeio,Carro  - 1998
+742,2001,Gasolina,Branco,153.000,1.0,4 portas,R$ 8.990,Sedã,Chevrolet Corsa Financio com 1.800 Entrada Ótimo P Trabalho e Família  - 2001
+743,2002,Diesel,Cinza,306.787,2.0 - 2.9,4 portas,R$ 25.200,Pick-up,Vende se uma ranger 2002  - 2002
+744,2019,Flex,Branco,32.000,1.0,4 portas,R$ 37.390,Sedã,Renault Logan 1.0  - 2019
+745,2018,Flex,Prata,73.462,1.0,4 portas,R$ 35.990,Passeio,Ford Ka 1.0 se 12v flex 4p manual  - 2018
+746,2008,Gasolina,Prata,82.000,2.0 - 2.9,2 portas,R$ 31.000,Hatch,Vw - Volkswagen New Beetle 2008/2009 completo  - 2008
+747,2002,Gasolina,Verde,124.000,1.7,4 portas,R$ 13.800,Sedã,Honda Civic  - 2002
+748,2000,Diesel,Branco,111.111,2.0 - 2.9,2 portas,R$ 21.000,Pick-up,Vendo ou troco ford ranger 4x4 diesel  - 2000
+749,2019,Flex,Prata,14.000,2.0 - 2.9,4 portas,R$ 95.000,Sedã,Corolla xei 2019  - 2019
+750,2017,Flex,Branco,8.600,1.4,4 portas,R$ 38.800,Sedã,Grand Siena Attractive 1.4  - 2017
+751,2013,Diesel,Prata,119.000,3.0 - 3.9,4 portas,R$ 107.900,Pick-up,Hilux SRV 2013  - 2013
+752,2015,Flex,Branco,137.000,2.0 - 2.9,4 portas,R$ 63.900,Sedã,Corolla 2015 XEi  - 2015
+753,2015,Diesel,Branco,130.000,3.0 - 3.9,4 portas,R$ 118.990,SUV,Mitsubishi Pajero  - 2015
+754,2014,Flex,Branco,50.066,1.5,4 portas,R$ 29.990,Hatch,Vende se Peugeot 208 Active 1.5 2014  - 2014
+755,2014,Flex,Branco,72.000,1.0,4 portas,R$ 25.000,Passeio,Sandeiro 2014  - 2014
+756,2014,Flex,Branco,50.066,1.5,4 portas,R$ 29.990,Hatch,Vende se Peugeot 208 Active 1.5 2014  - 2014
+757,2014,Flex,Branco,72.000,1.0,4 portas,R$ 25.000,Passeio,Sandeiro 2014  - 2014
+758,2014,Flex,Branco,46.969,1.6,4 portas,R$ 31.000,Hatch,Sandero 2014  - 2014
+759,2013,Flex,Vermelho,73.465,1.4,4 portas,R$ 25.000,Hatch,Fiat-Palio attractive 1.4 8v Flex-2013  - 2013
+760,2015,Flex,Verde,85.000,1.0,4 portas,R$ 29.900,Hatch,Nissan March SV 2015 impecável  - 2015
+761,2016,Flex,Branco,84.000,1.0,4 portas,R$ 32.990,Hatch,Renault Sandero | Extra | De Único Dono | Veículo de Particular  - 2016
+762,2016,Gasolina,Preto,70.000,1.4,4 portas,R$ 75.000,Sedã,A3 Sedan Ambiente 1.4 2016  - 2016
+763,2015,Diesel,Branco,158.294,2.0 - 2.9,4 portas,R$ 75.000,Pick-up,Vende se Amarok 2.0 SE 4X4 CD 16V Turbo intercooler diesel Manual  - 2015
+764,2014,Flex,Vermelho,134.400,1.4,4 portas,R$ 29.000,Passeio,Palio weekend atractive 1.4 2014  - 2014
+765,2015,Diesel,Amarelo,36.259,3.0 - 3.9,2 portas,R$ 101.000,SUV,Troller T-4 4X4 3.2 TDI Cap. Rigida Diesel  - 2015
+766,2016,Flex,Branco,48.125,1.0,4 portas,R$ 29.990,Hatch,Ford Ka SE 1.0 Flex  - 2016
+767,2019,Flex,Prata,4.920,1.2,4 portas,R$ 44.990,Hatch,Citroen C3 completo 2019 manual  - 2019
+768,2014,Flex,Branco,82.000,1.0,4 portas,R$ 29.299,Sedã,Renault LOGAN 2014  - 2014
+769,2019,Flex,Branco,36.497,1.3,4 portas,R$ 43.490,Hatch,Etios Hatch X 1.3 2019  - 2019
+770,2011,Flex,Preto,99.980,1.0,4 portas,R$ 17.000,Sedã,Gm - Chevrolet Classic  - 2011
+771,2014,Diesel,Branco,100.000,3.0 - 3.9,4 portas,R$ 179.000,Pick-up,Discovery 4SE 2014  - 2014
+772,2009,Flex,Prata,90.000,1.0,4 portas,R$ 17.900,Passeio,Fiesta Sedan 1.0 Flex 2009 completo Entrada 2.000 + parcelas 64000  - 2009
+773,2010,Gasolina,Prata,149.844,2.0 - 2.9,4 portas,R$ 35.000,SUV,Suzuki Grand Vitara 2010  - 2010
+774,2013,Diesel,Prata,115,3.0 - 3.9,4 portas,R$ 103.900,Pick-up,Hilux Srv Top 2013 Diesel 4x4 Automática  - 2013
+775,2012,Flex,Cinza,110.000,1.8,4 portas,R$ 47.000,Passeio,Toyota Corola xei 1.8 flex aut ano 2012  - 2012
+776,2013,Diesel,Cinza,380,2.0 - 2.9,4 portas,R$ 45.000,Van/Utilitário,Sprinter 20 lug 2013. 103mil ou 45mil e parcela  - 2013
+777,2006,Gasolina,Preto,200.000,1.5,4 portas,R$ 24.500,Hatch,Honda Fit EX 1.5  - 2006
+778,2012,Flex,Vermelho,1.111,1.0,2 portas,R$ 11.500,Passeio,Vendo gol g4 extra  - 2012
+779,2019,Flex,Prata,38.530,1.4,4 portas,R$ 45.990,Hatch,Gm - Chevrolet Onix 1.4 2019 completo  - 2019
+780,2008,Flex,Outra,147.000,2.0 - 2.9,4 portas,R$ 22.000,Hatch,Vectra gtx. Oferta imperdivel!  - 2008
+781,2013,Flex,Branco,100.000,1.0,4 portas,R$ 25.000,Hatch,Palio 1.0 2013 completo top atracttiver  - 2013
+782,2015,Flex,Prata,15.000,1.0,4 portas,R$ 25.000,Sedã,Vendo classic 2015  - 2015
+783,2013,Flex,Prata,79.000,1.4,4 portas,R$ 22.990,Hatch,Peugeot 207 XR 1.4 Flex 2013 completo extra! Entrada 4.990 + parcelas 67500  - 2013
+784,2017,Flex,Prata,53.000,1.8,4 portas,R$ 67.900,Passeio,Toyota Corolla GLi 2017 1.8 Flex  - 2017
+785,2004,Gasolina,Branco,168.500,1.0,2 portas,R$ 6.500,Passeio,Fiat Uno  - 2004
+786,2017,Flex,Branco,11.500,1.4,4 portas,R$ 85.000,Hatch,Cruze Sport6 LTZ  - 2017
+787,2017,Flex,Branco,11.500,1.4,4 portas,R$ 85.000,Hatch,Cruze Sport6 LTZ  - 2017
+788,2017,Flex,Preto,40,1.8,4 portas,R$ 25.000,Sedã,Vendo  - 2017
+789,2013,Flex,Prata,87.000,1.4,4 portas,R$ 26.500,Hatch,Punto 1.4 Itália ? ano 13/13  - 2013
+790,2018,Flex,Prata,22.098,1.0,4 portas,R$ 33.999,Passeio,Renault sandero 1.0 2018 completo com apenas 22.098 KM rodados  - 2018
+791,2011,Flex,Prata,85.000,2.0 - 2.9,4 portas,R$ 42.000,SUV,Pajero TR4 4x4 2011/2011  - 2011
+792,2015,Flex,Vermelho,68.000,1.6,4 portas,R$ 48.000,SUV,Ecosport freestyle 1.6 ano 2015  - 2015
+793,2014,Flex,Cinza,150.000,1.6,4 portas,R$ 36.000,Sedã,Duster 2013/2014  - 2014
+794,2018,Flex,Vermelho,77.448,1.0,4 portas,R$ 40.990,Passeio,Ford Ka 1.0 se 12v flex 4p manual  - 2018
+795,2019,Flex,Branco,17.002,1.6,4 portas,R$ 75.990,Passeio,Renault Captur 1.6 16v sce flex zen x-tronic  - 2019
+796,2014,Diesel,Branco,87.000,3.0 - 3.9,4 portas,R$ 68.000,Pick-up,Oportunidade Triton 2014 4x4 mecânica  - 2014
+797,2011,Gasolina,Preto,112.500,2.0 - 2.9,4 portas,R$ 38.900,SUV,Grand Vitara 2.0 Aut. 4x4  - 2011
+798,2018,Flex,Prata,33.000,1.6,4 portas,R$ 48.500,Sedã,Nissan Versa  - 2018
+799,1998,Gasolina,Azul,63.280,1.0,4 portas,R$ 8.000,Hatch,Palio98  - 1998
+800,2014,Flex,Preto,1.340.003,1.0,4 portas,R$ 30.000,Sedã,Carro Prisma  - 2014
+801,2014,Flex,Preto,63.000,1.6,4 portas,R$ 34.500,Hatch,New Fiesta 1.6 SE Hatch  - 2014
+802,2016,Flex,Prata,60.000,1.0,4 portas,R$ 35.500,Hatch,Gm Onix LT 1.0 2016 com my link  - 2016
+803,2014,Flex,Branco,63.000,2.0 - 2.9,4 portas,R$ 64.900,SUV,Carro Sportage  - 2014
+804,2015,Diesel,Branco,88.000,3.0 - 3.9,4 portas,R$ 115.000,Pick-up,Pajero Dakar Hpe 3.2 2015  - 2015
+805,2012,Flex,Preto,55.555,1.0,4 portas,R$ 21.000,Sedã,Classic 2012  - 2012
+806,2008,Gasolina,Preto,0,2.0 - 2.9,4 portas,R$ 31.000,SUV,GM - Chevrolet Tracker 2008 Extra  - 2008
+807,2005,Gasolina,Azul,73.000,1.5,4 portas,R$ 23.500,Passeio,Honda fit  - 2005
+808,2010,Flex,Preto,100.000,1.0,4 portas,R$ 20.900,Sedã,Siena 2010 elx top único dono  - 2010
+809,2017,Flex,Prata,26.000,2.0 - 2.9,4 portas,R$ 53.990,SUV,Tucson 2017 GLS automático  - 2017
+810,2018,Gás Natural,Prata,17.800,1.4,4 portas,R$ 63.000,Sedã,Prisma LTZ 1.4 2918  - 2018
+811,2015,Flex,Branco,55.000,1.0,4 portas,R$ 26.900,Hatch,Uno vivace 2015 1.0 completo ipva 2019  - 2015
+812,2012,Flex,Prata,0,1.6,4 portas,R$ 31.900,SUV,EcoSport 2012  - 2012
+813,2017,Diesel,Laranja,43.500,3.0 - 3.9,4 portas,R$ 126.500,Pick-up,Frontier le  - 2017
+814,2008,Flex,Prata,172.000,1.6,4 portas,R$ 15.900,Sedã,Renault Logan 2008 1.6 completo R$15.900  - 2008
+815,2017,Flex,Branco,37.750,1.0,4 portas,R$ 33.400,Sedã,Sandero expression 1.0 2018 completo  - 2017
+816,2014,Flex,Branco,68.000,2.0 - 2.9,4 portas,R$ 38.900,SUV,Duster 2014 TECH ROAD  - 2014
+817,2015,Flex,Branco,621.003,1.5,4 portas,R$ 36.900,Sedã,Ford ka + 1.5 se 2015  - 2015
+818,2014,Flex,Branco,131.000,1.6,4 portas,R$ 29.990,Hatch,Fiat Punto Essence 1.6 dualogic  - 2014
+819,2010,Flex,Cinza,126.000,1.0,4 portas,R$ 18.000,Sedã,Siena 2010 fire completo  - 2010
+820,2016,Álcool,Cinza,4.000,1.4,2 portas,R$ 46.000,Pick-up,Vendo  - 2016
+821,2016,Flex,Prata,53.000,1.0,4 portas,R$ 30.999,Passeio,Uno atractive completo 2016/2016  - 2016
+822,1987,Gasolina,Branco,65.080,1.6,4 portas,R$ 5.000,Van/Utilitário,Vendo Kombi 87/88  - 1987
+823,2011,Flex,Vermelho,89.000,1.6,4 portas,R$ 23.900,Passeio,Sandero Stepway  - 2011
+824,2003,Gasolina,Prata,169.000,1.0,4 portas,R$ 9.800,Hatch,Celta 2003/2004  - 2003
+825,1998,Gasolina,Azul,1,1.6,2 portas,R$ 18.000,Passeio,Vendo Grand vitara  - 1998
+826,2017,Flex,Prata,14.200,1.6,4 portas,R$ 62.500,Hatch,Espetacular Ecosport 1.6 Freestyle 2017 - Caicó/RN  - 2017
+827,2014,Flex,Vermelho,69.800,1.6,4 portas,R$ 30.900,Hatch,Chevrolet Sonic LT  - 2014
+828,2000,Gasolina,Cinza,23.487,1.0,4 portas,R$ 8.400,Passeio,Vendo gol g3 completo 16v  - 2000
+829,2017,Flex,Prata,44.742,1.0,4 portas,R$ 38.990,Hatch,Hyundai Hb20 1.0 Confort 12v 2017  - 2017
+830,2016,Flex,Branco,59.000,1.8,4 portas,R$ 57.990,Sedã,Honda Civic | Extra de Verdade | Igual as Fotos | De Procedência | Pronto pra Usar |  - 2016
+831,2015,Gás Natural,Prata,67,1.5,4 portas,R$ 37.900,Sedã,Etios 2015 sedã 1.5 x  - 2015
+832,2015,Flex,Prata,41.650,1.0,4 portas,R$ 27.400,Hatch,Gol G6  - 2015
+833,2013,Gasolina,Branco,68.000,2.0 - 2.9,4 portas,R$ 58.900,SUV,Kia Sorento 2.4 Automatico 2013 completa  - 2013
+834,2010,Flex,Outra,78.000,1.0,4 portas,R$ 17.500,Sedã,Classic 2010  - 2010
+835,2009,Flex,Vermelho,90.000,1.6,4 portas,R$ 18.990,Hatch,C3 Exclusive 1.6 Flex automático 2009 completo Entrada 1.500 + parcelas 69900  - 2009
+836,2018,Flex,Cinza,35.375,1.0,4 portas,R$ 34.990,Hatch,Hyundai Hb20 Confort/Confort plus/Confotr stylo 1.0 2018 completo  - 2018
+837,2018,Flex,Vermelho,46.000,1.6,4 portas,R$ 36.500,Passeio,Gol Trendline 1.6 T.flex 8v 5p  - 2018
+838,2013,Flex,Cinza,34.000,1.5,4 portas,R$ 28.000,Hatch,Vendo etios Xls 1.5 2013/2013  - 2013
+839,2011,Diesel,Preto,159.000,2.0 - 2.9,4 portas,R$ 57.900,Pick-up,Amarok 2011 SE diesel 4x4 manual único dono!!  - 2011
+840,2018,Flex,Branco,43.593,1.0,4 portas,R$ 36.000,Hatch,Gm - Chevrolet Onix  - 2018
+841,2010,Flex,Preto,100.000,1.0,4 portas,R$ 20.900,Sedã,Siena 2010 elx top único dono  - 2010
+842,2015,Gasolina,Branco,0,1.5,4 portas,R$ 32.500,Sedã,Baixei para Vender um Ford K + 2015 Novo pra venda  - 2015
+843,2018,Flex,Prata,36.000,1.0,4 portas,R$ 36.900,Hatch,Hb20 2018  - 2018
+844,2010,Flex,Cinza,100.000,1.0,4 portas,R$ 18.500,Hatch,Sandero completo 2010  - 2010
+845,2012,Flex,Amarelo,57.709,1.0,4 portas,R$ 25.500,Hatch,Kia Motors Picanto  - 2012
+846,2006,Flex,Cinza,92.000,1.0,4 portas,R$ 12.000,Passeio,Gol 2006 extra 92000 km zap988723638  - 2006
+847,2018,Flex,Prata,41.000,1.0,4 portas,R$ 40.490,Sedã,Hyundai Hb20S 1.0  - 2018
+848,2011,Flex,Preto,127.000,1.6,4 portas,R$ 23.990,Hatch,FORD FOCUS 1.6 2011 completo pneus zerados  - 2011
+849,2014,Flex,Branco,98.868,1.8,4 portas,R$ 45.000,Hatch,Sensacional Cruze 1.8 LT 2014 - Caicó/RN  - 2014
+850,2019,Flex,Prata,36.118,1.0,4 portas,R$ 36.890,Passeio,Nissan March 1.0 s 12v flex 4p manual  - 2019
+851,2016,Flex,Cinza,70.000,2.0 - 2.9,4 portas,R$ 71.999,Sedã,Corolla XEI Automatico Revisado Oportunidade Troco e Financio  - 2016
+852,2018,Diesel,Prata,20.000,2.0 - 2.9,4 portas,R$ 144.900,Pick-up,GM S10 2.8 LTZ 4x4 2018 AT Único dono = 0km  - 2018
+853,2012,Flex,Prata,126.000,1.0,4 portas,R$ 21.900,Hatch,Sandero 2012  - 2012
+854,2009,Gasolina,Preto,112.000,1.0,4 portas,R$ 18.000,Sedã,Vw - Volkswagen Voyage  - 2009
+855,1997,Gasolina,Azul,11.111.111,1.0,4 portas,R$ 6.200,Hatch,Corsinha pra vender ou trocar!!!  - 1997
+856,2013,Flex,Branco,71.000,1.0,4 portas,R$ 22.900,Hatch,Vendo Palio economy 1.0  - 2013
+857,2011,Gasolina,Cinza,0,2.0 - 2.9,4 portas,R$ 41.900,SUV,Grand Vitara 2.0 4x4 2011  - 2011
+858,2010,Flex,Prata,80.100,1.6,4 portas,R$ 19.500,Sedã,Fiesta sedã class 2010 19.500  - 2010
+859,2005,Diesel,Preto,272.000,2.0 - 2.9,4 portas,R$ 28.500,Pick-up,Venda de Pick-up L200 GLS  - 2005
+860,2015,Flex,Preto,51.000,1.0,4 portas,R$ 29.500,Hatch,Up take 2015 extra  - 2015
+861,2008,Gasolina,Prata,68.000,1.4,4 portas,R$ 20.000,Passeio,Fiat punto elx 1.4  - 2008
+862,2012,Gás Natural,Branco,0,1.4,4 portas,R$ 24.000,Passeio,Cobalt LS 2012  - 2012
+863,2011,Flex,Prata,75.000,1.8,4 portas,R$ 7.500,Hatch,Repasse Fiat Stilo consórcio BB 2011  - 2011
+864,2009,Flex,Preto,140.000,1.0,2 portas,R$ 12.900,Passeio,Vende-se Ford ka 2009  - 2009
+865,2008,Flex,Azul,139.000,1.4,2 portas,R$ 16.500,Pick-up,Strada  - 2008
+866,2013,Flex,Branco,78.148,1.8,4 portas,R$ 29.990,Sedã,Fiat Linea Essence 2013 Dualogic  - 2013
+867,2016,Flex,Prata,80.000,1.6,4 portas,R$ 37.900,Sedã,Grand Siena 1.6 essence 2016 completo  - 2016
+868,2013,Flex,Azul,135.000,1.6,4 portas,R$ 20.900,Sedã,Symbol privilege 2013  - 2013
+869,2016,Flex,Prata,52.015,1.6,4 portas,R$ 37.900,Passeio,Voyage 1.6 msi  - 2016
+870,2016,Flex,Prata,74.900,1.6,4 portas,R$ 30.900,Hatch,Sandero 2016  - 2016
+871,2010,Flex,Preto,162.000,1.0,4 portas,R$ 14.500,Sedã,Corsa Classic 2010 4p  - 2010
+872,2014,Flex,Prata,80.000,1.8,4 portas,R$ 42.000,Pick-up,Strada adventure locker  - 2014
+873,2016,Diesel,Cinza,200.000,2.0 - 2.9,4 portas,R$ 105.000,Van/Utilitário,Renault Master 16/17  - 2016
+874,2018,Flex,Cinza,37.000,1.6,4 portas,R$ 36.900,Hatch,Gol trendline msi 1.6 2018  - 2018
+875,2016,Flex,Branco,22.000,1.8,4 portas,R$ 73.500,SUV,Hr-v EXL 2016  - 2016
+876,2017,Flex,Branco,47.000,1.6,4 portas,R$ 34.000,Hatch,Nissan March  - 2017
+877,2003,Gasolina,Prata,200.000,1.0,4 portas,R$ 11.500,Hatch,Celta 2003  - 2003
+878,2016,Flex,Branco,46.000,1.4,4 portas,R$ 37.999,Hatch,Fiat Punto  - 2016
+879,2010,Flex,Prata,95.740,1.4,4 portas,R$ 21.500,Sedã,GM-Prisma Maxx 1.4 8v Flex- 2010/2011  - 2010
+880,2012,Flex,Prata,121.000,1.6,4 portas,R$ 19.000,Sedã,Renault Symbol Privilége 2012 completo  - 2012
+881,2013,Flex,Preto,29.800,1.6,4 portas,R$ 34.000,Hatch,Fox prime 1.6 2013 único  - 2013
+882,2017,Flex,Prata,16,1.5,4 portas,R$ 65.000,SUV,Suv Jac T5 1.5 Jet Flex 16V 5P Automático 16mil 100km  - 2017
+883,2018,Flex,Cinza,39.466,1.6,4 portas,R$ 58.990,Sedã,Vw - Volkswagen Virtus 1.6 MSI Manual 2018  - 2018
+884,2014,Flex,Branco,66.000,1.4,4 portas,R$ 24.600,Hatch,207 2014  - 2014
+885,2013,Flex,Prata,160.000,1.0,4 portas,R$ 21.990,Hatch,Uno vivace 1.0 2013  - 2013
+886,2013,Flex,Prata,82.500,1.0,4 portas,R$ 18.000,Hatch,Vw - Volkswagen Gol  - 2013
+887,2014,Flex,Prata,89.146,1.8,4 portas,R$ 39.990,Van/Utilitário,Spin LTZ 1.8 2014 7 lugares completa  - 2014
+888,2013,Flex,Cinza,93.469,1.6,4 portas,R$ 37.900,SUV,Kia Soul EX 1.6 Automático Ano 2013  - 2013
+889,2018,Flex,Vermelho,32.000,1.0,4 portas,R$ 34.900,Hatch,Gm - Chevrolet Onix  - 2018
+890,2014,Diesel,Branco,69.000,3.0 - 3.9,4 portas,R$ 134.999,SUV,Sw4 7 lugares impecável! 2014/14  - 2014
+891,2016,Flex,Branco,54.000,1.0,4 portas,R$ 33.999,Hatch,Ford Ka Diferenciado Oportunidade Financio e Troco  - 2016
+892,2001,Gasolina,Outra,131.000,1.0,2 portas,R$ 8.300,Hatch,Palio Fire 2001 Com Ar Extra  - 2001
+893,2019,Flex,Prata,33.500,1.0,4 portas,R$ 36.200,Hatch,Nissan March 1.0 Completo  - 2019
+894,2018,Flex,Branco,22.234,1.0,4 portas,R$ 33.300,Hatch,33.30000  - 2018
+895,2013,Diesel,Branco,129.804,3.0 - 3.9,4 portas,R$ 88.900,SUV,Dakar 7 lugares 2013  - 2013
+896,2016,Flex,Prata,66.000,1.0,4 portas,R$ 28.000,Hatch,Fiat uno 2016  - 2016
+897,2008,Flex,Prata,125.000,2.0 - 2.9,4 portas,R$ 18.900,Hatch,Focus 2008 2.0 16 válvulas automático  - 2008
+898,2018,Flex,Branco,27.000,1.6,2 portas,R$ 42.900,Van/Utilitário,SAVEIRO ROBUST 1.6 2018 COMPLETA - km 27.000  - 2018
+899,2014,Flex,Prata,53.756,1.4,4 portas,R$ 35.000,Sedã,Fiat Siena Attractiv 13/14  - 2014
+900,2015,Gasolina,Prata,56.284,2.0 - 2.9,4 portas,R$ 73.900,Passeio,Toyota rav4 2015/2015 2.0 4x2 16v gasolina 4p automático  - 2015
+901,2018,Flex,Laranja,20.000,1.3,2 portas,R$ 68.900,SUV,Suzuki Jimny 4sport 2018  - 2018
+902,2004,Diesel,Prata,243.000,3.0 - 3.9,4 portas,R$ 59.990,SUV,Toyota Land Cruiser  - 2004
+903,2012,Gasolina,Cinza,81.200,2.0 - 2.9,4 portas,R$ 41.000,SUV,Fremont Extra  - 2012
+904,2016,Flex,Prata,66.000,1.6,4 portas,R$ 30.990,Hatch,Renault Sandero  - 2016
+905,2015,Flex,Preto,46.000,1.6,4 portas,R$ 35.990,Hatch,March 1.6 sl 2015 completo ar digital  - 2015
+906,2018,Flex,Branco,17.411,1.6,4 portas,R$ 46.990,Sedã,Voyage  - 2018
+907,2009,Flex,Cinza,231,2.0 - 2.9,4 portas,R$ 26.500,Pick-up,S10 2009 advantage Flex e gás natural empacada ate 2020 99187-7790 Pedro  - 2009
+908,2010,Flex,Prata,66.124,1.4,4 portas,R$ 17.500,Hatch,Peugeot 207 Quiksilver 1.4 8v flex 4 portas completo (Aceito Proposta)  - 2010
+909,2018,Flex,Branco,43.364,1.0,4 portas,R$ 31.400,Hatch,Nissan Kicks SV 1.6 Flexstar Automático 2018.(IPVA 2019 GRÁTIS)  - 2018
+910,2015,Flex,Cinza,76.000,3.0 - 3.9,4 portas,R$ 85.000,SUV,Pajero Dakar HPE Flex ano 2015 km 76.000 R$ 85.00000  - 2015
+911,2014,Flex,Cinza,76.212,1.0,4 portas,R$ 24.900,Hatch,Uno Vivace 2014  - 2014
+912,2014,Flex,Cinza,76.212,1.0,4 portas,R$ 24.900,Hatch,Uno Vivace 2014  - 2014
+913,2014,Flex,Branco,80.300,1.4,4 portas,R$ 30.900,Sedã,Siena EL 1.4 2014 extra  - 2014
+914,2015,Flex,Branco,81,1.6,4 portas,R$ 25.800,Hatch,Gol 1.6 2015  - 2015
+915,2014,Flex,Branco,40.000,2.0 - 2.9,4 portas,R$ 65.990,SUV,Sportage LX 2014 Automática /// Extra ///  - 2014
+916,2013,Flex,Outra,90.300,2.0 - 2.9,4 portas,R$ 36.900,Van/Utilitário,Tucson gl 2013 automática  - 2013
+917,2019,Flex,Cinza,25.529,1.6,4 portas,R$ 38.890,Passeio,Renault Sandero 1.6 16v sce flex expression manual  - 2019
+918,2003,Gasolina,Branco,158,1.0,4 portas,R$ 9.900,Hatch,Celta bom e barato 2003 bem novinho!  - 2003
+919,2014,Flex,Outra,83.000,1.8,4 portas,R$ 37.900,Sedã,Cobalt LTZ aut 2014  - 2014
+920,2014,Flex,Branco,82.000,1.4,4 portas,R$ 28.990,Sedã,Fiat/Siena El 1.4 Completo!!!  - 2014
+921,2016,Flex,Prata,38.300,1.4,4 portas,R$ 75.990,Sedã,Audi A3 sedan Attraction 1.4 extra!  - 2016
+922,2019,Flex,Branco,7.500,1.6,4 portas,R$ 66.900,Sedã,Vw - Volkswagen Virtus  - 2019
+923,2007,Flex,Azul,160,1.0,4 portas,R$ 14.999,Passeio,Siena ELX completo. muito novo!  - 2007
+924,2015,Gasolina,Branco,86.400,1.0,4 portas,R$ 10.900,Hatch,HB20 1.0 12V Conf 2015  - 2015
+925,2012,Gasolina,Cinza,63.000,1.0,4 portas,R$ 25.990,Hatch,Picanto 2012  - 2012
+926,2001,Gasolina,Branco,280.000,1.5,2 portas,R$ 14.000,Pick-up,Fiat Strada  - 2001
+927,2013,Flex,Branco,120.000,1.8,4 portas,R$ 34.899,Passeio,Gm - Chevrolet Spin 2013 5 Lugares  - 2013
+928,2016,Flex,Preto,68,1.5,4 portas,R$ 35.000,Sedã,Etios sedan 1.5x 2016  - 2016
+929,2018,Flex,Cinza,4.000,1.4,4 portas,R$ 102.900,Sedã,A3 Sedan 1.4t c/ 4.000 km rodados 2017/2018  - 2018
+930,1986,Gás Natural,Branco,0,1.6,2 portas,R$ 7.000,Pick-up,Kombi a venda  - 1986
+931,2010,Flex,Vermelho,86.000,1.4,2 portas,R$ 20.000,Pick-up,Carro  - 2010
+932,1997,Gasolina,Verde,0,1.0,2 portas,R$ 6.500,Hatch,Vendo Corsa  - 1997
+933,2015,Flex,Branco,64.000,2.0 - 2.9,4 portas,R$ 90.000,Sedã,Vendo BMW 320i 2015 EXTRA  - 2015
+934,2004,Diesel,Prata,0,2.0 - 2.9,4 portas,R$ 28.900,Pick-up,Blazer 2.8 Diesel 4 x 4 R$28900 LEIA O ANÚNCIO  - 2004
+935,2017,Diesel,Prata,12.000,2.0 - 2.9,4 portas,R$ 167.000,Pick-up,Toyota Hilux srx 2017/2017. 12 mil km rodado  - 2017
+936,2014,Flex,Preto,110.000,1.4,4 portas,R$ 20.000,Sedã,Prisma 1.4 LT JÁ FINANCIADO REPASSO  - 2014
+937,2015,Flex,Branco,33.000,1.0,4 portas,R$ 26.000,Hatch,Hb 20 1.0 - Comfort 2015 - chassis REM  - 2015
+938,2012,Flex,Prata,115.000,1.8,4 portas,R$ 45.500,Sedã,Corolla GLi 1.8 2012 Automático  - 2012
+939,2015,Flex,Preto,22.674,1.4,4 portas,R$ 44.000,Sedã,Prisma 1.4 LTZ 2015 Extra!!  - 2015
+940,2013,Flex,Branco,72.000,1.6,4 portas,R$ 26.900,Hatch,Sandero 1.6 2013 Completo  - 2013
+941,2015,Flex,Branco,5,1.6,4 portas,R$ 44.900,SUV,EcoSport freestyle 2015 1.6  - 2015
+942,2016,Flex,Prata,12.500,1.5,4 portas,R$ 62.990,Sedã,Honda City  - 2016
+943,2016,Flex,Amarelo,35.000,1.6,4 portas,R$ 39.500,Hatch,Sandero Stepway 1.6 2016 Extra  - 2016
+944,2015,Flex,Branco,43.000,1.6,4 portas,R$ 46.000,Hatch,Vende HB20 X PREMIUM 2015/2015 garantia até 30/05/2020  - 2015
+945,2017,Flex,Verde,50.000,1.8,4 portas,R$ 55.000,Pick-up,Toro super nova  - 2017
+946,2013,Flex,Prata,63.500,1.4,4 portas,R$ 29.000,Hatch,Fiat Punto  - 2013
+947,2018,Flex,Cinza,12.100,1.6,4 portas,R$ 52.990,Sedã,Versa SV 1.6 automático  - 2018
+948,2006,Flex,Preto,151.000,1.4,4 portas,R$ 8.500,Hatch,Vendo carro Peugeot 206 1.4  - 2006
+949,2007,Gasolina,Preto,200,2.0 - 2.9,4 portas,R$ 23.500,Pick-up,Tracker 2007  - 2007
+950,2012,Flex,Prata,83.000,1.4,4 portas,R$ 27.000,Hatch,Punto Atractive Extra  - 2012
+951,2012,Flex,Cinza,84.000,1.6,4 portas,R$ 28.000,Hatch,Renault Sandero  - 2012
+952,2012,Flex,Prata,127.000,1.6,4 portas,R$ 28.900,Hatch,Kia Motors Soul 2012 1.6 Mecanico  - 2012
+953,2011,Gasolina,Preto,86.000,2.0 - 2.9,4 portas,R$ 41.490,SUV,Grand vitara 2011 4x4  - 2011
+954,2002,Gasolina,Preto,11.111.111,1.0,4 portas,R$ 6.500,Passeio,Peugeot 206  - 2002
+955,2007,Flex,Cinza,168.600,1.8,4 portas,R$ 17.000,Hatch,Pra vender hoje ainda  - 2007
+956,2012,Flex,Amarelo,96.000,1.0,4 portas,R$ 26.500,Passeio,Vende-se Kia Picanto  - 2012
+957,2010,Flex,Prata,103.437,1.0,2 portas,R$ 14.000,Hatch,Celta Spirit 2P Flex VHC-E 2010 Completissismo  - 2010
+958,2012,Flex,Preto,130.000,1.0,4 portas,R$ 16.200,Hatch,Celta 2012 - vendo ou troco por carro maior  - 2012
+959,2017,Flex,Branco,39.000,1.0,4 portas,R$ 35.500,Passeio,Gol g7 extra  - 2017
+960,2013,Flex,Vermelho,0,1.0,4 portas,R$ 23.900,Hatch,Palio Attractive 2013  - 2013
+961,2012,Flex,Vermelho,100.500,1.0,2 portas,R$ 15.500,Passeio,Celta 2012  - 2012
+962,2015,Diesel,Branco,88.000,3.0 - 3.9,4 portas,R$ 115.000,Pick-up,Pajero Dakar Hpe 3.2 2015  - 2015
+963,1998,Diesel,Branco,106,3.0 - 3.9,4 portas,R$ 23.000,SUV,Venda ou troca de Hilux SW 4. ano 98  - 1998
+964,2007,Flex,Prata,167.000,2.0 - 2.9,4 portas,R$ 21.000,Sedã,Vectra 2.0 ELEGANCE FLEX 2007  - 2007
+965,2016,Diesel,Preto,30,2.0 - 2.9,4 portas,R$ 135.000,Passeio,Hilux 2016 c/apenas 30 mil kms 4x4 diesel automática  - 2016
+966,2014,Diesel,Prata,136.580,2.0 - 2.9,4 portas,R$ 87.890,Pick-up,VW amarok Highline 2.0 biturbo  - 2014
+967,2018,Diesel,Branco,35.500,2.0 - 2.9,4 portas,R$ 107.990,Pick-up,Fiat Toro 2.0 diesel volcano 2018  - 2018
+968,2016,Flex,Branco,62.000,1.4,4 portas,R$ 32.500,Sedã,Siena 1.4  - 2016
+969,2011,Gasolina,Preto,140,2.0 - 2.9,4 portas,R$ 46.990,SUV,Sorento automático 4wd 7 lugares  - 2011
+970,2010,Flex,Prata,96.000,1.4,2 portas,R$ 26.500,Pick-up,Vende-se essa Strada Entrar em contato com Oriel:(84)99604-2574  - 2010
+971,2018,Flex,Branco,34.500,2.0 - 2.9,4 portas,R$ 87.900,Sedã,Toyota Corolla 17/18  - 2018
+972,2003,Gasolina,Verde,0,1.8,4 portas,R$ 8.000,Hatch,Focus hatch 1.8  - 2003
+973,2003,Gasolina,Verde,0,1.8,4 portas,R$ 8.000,Hatch,Focus hatch 1.8  - 2003
+974,2002,Diesel,Preto,3.371.890,2.0 - 2.9,4 portas,R$ 33.500,Pick-up,Mitsubishi L200  - 2002
+975,2015,Flex,Branco,69.000,1.6,4 portas,R$ 36.500,Sedã,Hb20 2015  - 2015
+976,2012,Flex,Preto,81.000,1.8,4 portas,R$ 29.900,Sedã,Repasse Honda Civic LXL 1.8 Top 2012 (Muito Novo)  - 2012
+977,2012,Flex,Branco,67.000,1.0,4 portas,R$ 8.900,Passeio,Gol 2012 top  - 2012
+978,2010,Flex,Vermelho,78.000,1.6,4 portas,R$ 32.000,SUV,Kia Soul automático  - 2010
+979,2011,Gasolina,Prata,77.000,1.6,4 portas,R$ 52.000,Sedã,Mercedes C180 k impecável  - 2011
+980,2012,Flex,Branco,63.900,1.0,2 portas,R$ 17.500,Hatch,Celta ls 2012 02 portas  - 2012
+981,2016,Flex,Prata,30.566,1.6,4 portas,R$ 36.990,Hatch,Vw - Volkswagen Gol Comfortline 1.6 2016  - 2016
+982,2010,Flex,Cinza,98,1.0,4 portas,R$ 18.999,Passeio,Siena 2010 completo  - 2010
+983,1982,Gasolina,Cinza,11.111.111,4.0 ou mais,2 portas,R$ 3.700,Passeio,Fusca 1300 todo em dias pronto pra tranferir  - 1982
+984,2007,Flex,Cinza,266,1.0,4 portas,R$ 13.000,Hatch,Fiat palio fire Flex 2007 . completo  - 2007
+985,2007,Flex,Prata,0,1.0,4 portas,R$ 15.000,Sedã,Siena 4 Portas 2007  - 2007
+986,2007,Flex,Prata,100,1.0,4 portas,R$ 13.990,Sedã,Classic 2007 Completo  - 2007
+987,2005,Flex,Branco,57.646,1.3,2 portas,R$ 12.500,Van/Utilitário,Fiorino baú furgão 1.3 fire  - 2005
+988,2014,Flex,Branco,1,1.0,4 portas,R$ 26.900,Hatch,Novo Gol 1.0 13/14  - 2014
+989,2003,Gasolina,Cinza,0,1.0,4 portas,R$ 9.000,Hatch,Clio  - 2003
+990,1992,Gasolina,Prata,12.345.678,1.6,4 portas,R$ 4.000,Sedã,Vendo clio  - 1992
+991,2006,Gás Natural,Prata,213.000,1.4,2 portas,R$ 13.500,Pick-up,Fiat Strada  - 2006
+992,2006,Diesel,Preto,220.000,3.0 - 3.9,4 portas,R$ 49.000,SUV,Mitsubishi Pajero  - 2006
+993,2011,Flex,Preto,112.300,1.0,2 portas,R$ 13.500,Hatch,Ka 2011 completo!!ent+48×35900.  - 2011
+994,2015,Flex,Branco,44.345,1.0,4 portas,R$ 32.000,Sedã,Imperdível - Hyundai HB20S 1.0 Comfort Plus 12V 2015 estado de NOVO  - 2015
+995,2013,Flex,Verde,132,1.4,2 portas,R$ 28.500,Pick-up,Carro estrada  - 2013
+996,2017,Flex,Branco,19.467,1.0,4 portas,R$ 39.990,Hatch,Vw - Volkswagen Fox 1.0 Trendline 12v 2017  - 2017
+997,2003,Gás Natural,Prata,120.000,2.0 - 2.9,4 portas,R$ 10.000,Passeio,Santana  - 2003
+998,2015,Flex,Branco,77.000,1.6,4 portas,R$ 27.000,Hatch,Nissan March 1.6 S 2015  - 2015
+999,2010,Gasolina,Preto,99.000,2.0 - 2.9,4 portas,R$ 30.500,Hatch,I 30 2010 automático extra  - 2010
+1000,2010,Gasolina,Prata,110.000,1.6,4 portas,R$ 20.900,Sedã,Symbol 1.6 2010 ideal p/ Uber  - 2010
+1001,2015,Flex,Branco,100.200,1.0,4 portas,R$ 23.800,Hatch,Fiat Palio economy fire 1.0 flex  - 2015
+1002,2012,Flex,Preto,84.000,1.4,4 portas,R$ 20.500,Sedã,Gm - Chevrolet Corsa  - 2012
+1003,2008,Flex,Cinza,114.803,1.0,4 portas,R$ 17.000,Passeio,Ford Fiesta 1.0  - 2008
+1004,2013,Flex,Prata,95.000,1.0,4 portas,R$ 27.000,Passeio,Renault Sandero  - 2013
+1005,2005,Flex,Branco,18.705,1.5,4 portas,R$ 36.000,Hatch,Vendo Ford Fiesta 2014/2015  - 2005
+1006,2019,Flex,Preto,36.722,1.0,4 portas,R$ 33.950,Hatch,Renault Sandero Authentique 1.0 completo 2019(de R$ 38990000 por R$ 3450000)  - 2019
+1007,2010,Flex,Vermelho,98,1.4,4 portas,R$ 17.999,Passeio,C3 xtr 1.4 flex 8v. o top!!  - 2010
+1008,2013,Flex,Preto,49.000,1.6,4 portas,R$ 26.000,Hatch,Fiat Palio Essence 1.6 - Completo - Muito Novo 49.000 km  - 2013
+1009,2014,Flex,Preto,64.721,1.6,4 portas,R$ 33.900,Hatch,Citroen C3 2014 Exclusiv  - 2014
+1010,2012,Flex,Prata,74.000,1.4,4 portas,R$ 17.000,Hatch,Pegeout 207  - 2012
+1011,2014,Flex,Branco,60.000,1.6,4 portas,R$ 42.900,Passeio,Ford ecosport fsl 1.6com encosto dvd travessas de bagageiroetc.  - 2014
+1012,2013,Flex,Branco,0,1.4,4 portas,R$ 22.000,Hatch,Vendo AGILE LTZ  - 2013
+1013,2016,Flex,Branco,74.000,1.0,4 portas,R$ 28.500,Hatch,Palio 2015/2016 1.0 atractive  - 2016
+1014,2014,Flex,Prata,80.000,1.0,4 portas,R$ 22.990,Hatch,Uno Vivace 1.0 2014 22.990 a vista ou entrada a partir de 3.99000 + parcelas 699  - 2014
+1015,2013,Flex,Prata,67.900,1.6,4 portas,R$ 18.990,Sedã,Renault Symbol Privilège Hi-Flex 1.6 16v 2013 Sedã Carro De Mulher Única Dona Completo  - 2013
+1016,2016,Flex,Branco,46.000,1.5,4 portas,R$ 34.990,Hatch,Ford fiesta SE 1.5 completo 2016  - 2016
+1017,2018,Flex,Preto,26.000,1.6,4 portas,R$ 68.950,SUV,Nissan Kicks SV  - 2018
+1018,2009,Gasolina,Prata,180.000,2.0 - 2.9,4 portas,R$ 29.900,SUV,Tracker 2.0 2009 completa gasolina  - 2009
+1019,2011,Flex,Prata,92.600,1.6,4 portas,R$ 27.990,Passeio,Ford ecosport 2010/2011 1.6 freestyle 8v flex 4p manual  - 2011
+1020,2016,Flex,Branco,64.000,1.4,4 portas,R$ 36.999,Sedã,Grand Siena Promoção P Quem Gosta de Qualidade Troco e Financio  - 2016
+1021,1998,Diesel,Verde,424.570,2.0 - 2.9,4 portas,R$ 37.500,Pick-up,Hilux 98  - 1998
+1022,2010,Gás Natural,Prata,340.000,1.8,4 portas,R$ 14.000,Passeio,Palio wekend pra vender rápido  - 2010
+1023,2013,Flex,Preto,100,1.6,4 portas,R$ 28.000,Conversível,Siena Grand semi novo ( negócio)  - 2013
+1024,2015,Flex,Prata,50.000,1.0,4 portas,R$ 29.990,Hatch,Vendo  - 2015
+1025,2008,Gás Natural,Preto,240.000,1.4,4 portas,R$ 16.500,Passeio,Corsa completo 2008  - 2008
+1026,2018,Flex,Prata,42.754,1.0,4 portas,R$ 65.990,Hatch,Vw - Volkswagen Polo 1.0 TSI Highline 2018  - 2018
+1027,1992,Gasolina,Prata,0,1.6,2 portas,R$ 3.600,Passeio,Vw - Volkswagen Parati  - 1992
+1028,2019,Flex,Prata,26.312,1.4,4 portas,R$ 54.990,Sedã,Prisma 1.4 LTZ 2019 Completo(de R$ 5850000 por R$ 5499000)já estamos no menor preço  - 2019
+1029,2012,Flex,Branco,81.000,1.0,4 portas,R$ 25.990,Hatch,Kia picanto EX 1.0 2012 completo  - 2012
+1030,2010,Flex,Cinza,118.000,1.0,4 portas,R$ 19.990,Hatch,Gol G4 1.0 Flex 2010 Completo Entrada 5.500 + parcelas 599  - 2010
+1031,2012,Flex,Preto,123.000,1.4,2 portas,R$ 29.000,Hatch,Fiat 500 2012  - 2012
+1032,2015,Flex,Branco,83.000,1.6,4 portas,R$ 48.990,SUV,Ecosport 1.6 Freestyle 2015 entrada 20.00000 + parcelas 79000  - 2015
+1033,2013,Flex,Preto,22.000,1.0,4 portas,R$ 28.800,Hatch,Palio Attractive 1.0 2013/2013 * Apenas 22 Mil Rodados e Única Dona  - 2013
+1034,2013,Diesel,Branco,253.000,2.0 - 2.9,4 portas,R$ 70.000,Van/Utilitário,Ducado 2.3 2013  - 2013
+1035,2008,Flex,Azul,12.222.222,1.6,4 portas,R$ 20.000,Passeio,Ford Ecosport  - 2008
+1036,1996,Gasolina,Vermelho,19.476,1.0,2 portas,R$ 5.500,Antigo,Vendo Gol quadrado 95/96 por 5.500R$  - 1996
+1037,2015,Flex,Prata,110.000,1.4,2 portas,R$ 30.700,Pick-up,Gm - Chevrolet Montana  - 2015
+1038,2014,Flex,Prata,63.298,1.6,4 portas,R$ 26.900,Hatch,Renault Sandero  - 2014
+1039,2015,Flex,Cinza,92.000,1.5,4 portas,R$ 34.000,Sedã,Etios Sedan xs 15/15  - 2015
+1040,2011,Flex,Preto,97.634,1.0,4 portas,R$ 20.900,Hatch,Ford Fiesta  - 2011
+1041,2018,Flex,Cinza,20.500,1.5,4 portas,R$ 52.000,Sedã,Toyota Etios Sedan XLS Automático  - 2018
+1042,2016,Flex,Branco,75.000,1.0,4 portas,R$ 33.900,Passeio,Ford Ka 1.0SE - 2016  - 2016
+1043,2017,Flex,Branco,22.292,2.0 - 2.9,4 portas,R$ 59.700,Sedã,Fluence sed dyn plus 2.0 16v flex AUT  - 2017
+1044,2012,Flex,Prata,189.000,1.6,4 portas,R$ 22.000,Hatch,Sandero 1.6 8v  - 2012
+1045,2012,Flex,Outra,115.000,1.0,4 portas,R$ 20.900,Hatch,Sandero exp 1.0  - 2012
+1046,2017,Flex,Branco,53.600,1.0,4 portas,R$ 28.900,Hatch,Palio Celebration Economy 1.0 4 Portas  - 2017
+1047,2011,Flex,Cinza,0,1.6,4 portas,R$ 25.000,Passeio,Vende Fox completo  - 2011
+1048,2016,Flex,Prata,54.000,1.0,4 portas,R$ 30.000,Hatch,Fiat Uno 2016 1.0 Attractive  - 2016
+1049,2013,Flex,Prata,120.000,1.4,2 portas,R$ 25.500,Pick-up,Estrada fire 1.4 ano 2013  - 2013
+1050,2012,Diesel,Prata,123.820,2.0 - 2.9,4 portas,R$ 49.990,Pick-up,Mitsubishi L200 2012 4X4 Manual  - 2012
+1051,2017,Flex,Verde,26.000,1.0,4 portas,R$ 34.900,Hatch,Mobi 1.0 8v evo flex way 2017  - 2017
+1052,2018,Flex,Vermelho,43.296,1.0,4 portas,R$ 36.990,Hatch,Gm - Chevrolet Onix  - 2018
+1053,2018,Flex,Azul,45.000,1.6,4 portas,R$ 39.900,Sedã,Voyage 1.6 2018 completo - ipva 2019 pago  - 2018
+1054,2017,Flex,Branco,38.936,1.8,4 portas,R$ 73.000,Pick-up,Toro Freedom 1.8 Aut 4x2 (Flex) 2017 - Caicó/RN  - 2017
+1055,2015,Gasolina,Laranja,46.780,1.3,2 portas,R$ 53.990,SUV,Suzuki Jimny  - 2015
+1056,2019,Flex,Branco,0,1.4,4 portas,R$ 115.900,Sedã,Jetta r-line 18/19  - 2019
+1057,2007,Flex,Preto,155.000,1.0,4 portas,R$ 13.600,Hatch,Gol g4 completo 4 portas 2008  - 2007
+1058,2010,Flex,Cinza,135,1.0,4 portas,R$ 21.500,Sedã,Siena. el  - 2010
+1059,2011,Flex,Branco,105,2.0 - 2.9,4 portas,R$ 40.900,SUV,Tr4 4x4 extra financio. Mecânica mais econômica  - 2011
+1060,2018,Flex,Prata,39.000,1.0,4 portas,R$ 31.500,Hatch,Uno drive  - 2018
+1061,2010,Flex,Preto,155.000,1.0,4 portas,R$ 20.900,Hatch,Palio 2010 completo R$20.900  - 2010
+1062,2016,Diesel,Preto,38.000,4.0 ou mais,4 portas,R$ 359.000,SUV,Range Rover Sport HSE Dinamic 4.4 V8 ano 2016 garantia até outubro 2019  - 2016
+1063,2017,Flex,Prata,39.000,1.6,4 portas,R$ 75.900,SUV,Hyundai Creta 2017 Pulse  - 2017
+1064,2007,Flex,Prata,120.000,1.4,4 portas,R$ 15.000,Sedã,Vendo ou troco Prisma  - 2007
+1065,2014,Flex,Vermelho,80.300,1.0,4 portas,R$ 29.900,Hatch,HB20 C. Style 1.0 2014 com Garantia de Fábrica  - 2014
+1066,1993,Gasolina,Preto,200.000,1.6,4 portas,R$ 8.500,Passeio,Carro mercedes classe a 160  - 1993
+1067,2011,Gasolina,Prata,110.000,1.0,4 portas,R$ 18.500,Hatch,Kia Picanto  - 2011
+1068,2004,Gasolina,Verde,168.000,1.0,4 portas,R$ 10.500,Sedã,Siena 2004 completo  - 2004
+1069,2009,Flex,Prata,87.000,1.0,4 portas,R$ 18.500,Sedã,Fiesta sedan  - 2009
+1070,2012,Flex,Verde,64.000,1.8,4 portas,R$ 27.500,Passeio,Pálio weekend  - 2012
+1071,2010,Gasolina,Prata,400.000,1.4,4 portas,R$ 22.500,Passeio,Meriva  - 2010
+1072,2005,Flex,Azul,200.000,1.0,4 portas,R$ 9.500,Sedã,Renault Clio  - 2005
+1073,2010,Flex,Prata,137,1.4,4 portas,R$ 26.500,Hatch,Excelente Honda fit 2010 em perfeito estado todo revisado e emplacado 2019  - 2010
+1074,2016,Flex,Branco,51.000,1.0,4 portas,R$ 27.500,Passeio,Fiat Palio way 1.0 flex ano 2016  - 2016
+1075,2011,Gasolina,Preto,140,2.0 - 2.9,4 portas,R$ 46.990,SUV,Sorento automático 4wd 7 lugares  - 2011
+1076,1975,Gasolina,Verde,100.000,1.8,2 portas,R$ 25.000,Antigo,Jeep Willys (fibra) 4x4 AP 1974 com DH e Guincho 
+1077,2018,Flex,Branco,32.547,1.0,4 portas,R$ 33.990,Hatch,Renault Kwid  - 2018
+1078,1970,Gasolina,Outra,81.400,1.6,4 portas,R$ 30.000,Antigo,Vw tl 1973 
+1079,2015,Flex,Branco,1,1.4,2 portas,R$ 38.900,Pick-up,Strada Working CE 2015/2015 1.4 completíssima carro extra  - 2015
+1080,2011,Flex,Prata,98.000,1.6,2 portas,R$ 20.000,Sedã,Ford Fiesta  - 2011
+1081,2009,Flex,Cinza,105.000,1.4,4 portas,R$ 23.000,Hatch,Fit 2009  - 2009
+1082,2014,Flex,Cinza,34.000,1.4,4 portas,R$ 38.900,Hatch,Fit lx 2014 automatico  - 2014
+1083,2012,Flex,Prata,129.000,1.0,4 portas,R$ 20.000,Sedã,Renault Logan  - 2012
+1084,2017,Flex,Branco,35.000,1.0,4 portas,R$ 22.000,Hatch,Repasse sandero parcelas de 376  - 2017
+1085,2014,Flex,Preto,110.000,1.4,4 portas,R$ 20.000,Sedã,Prisma 1.4 LT JÁ FINANCIADO REPASSO  - 2014
+1086,2013,Gasolina,Preto,124.000,2.0 - 2.9,4 portas,R$ 69.900,SUV,Freelander s blindada gasolina 2013  - 2013
+1087,2010,Diesel,Prata,160,3.0 - 3.9,4 portas,R$ 88.000,Pick-up,Sw4 2010 2010 7 lugares  - 2010
+1088,2007,Flex,Branco,200.000,1.6,4 portas,R$ 13.000,Passeio,Cross fox 2007 completo e novo  - 2007
+1089,2014,Flex,Prata,80.450,1.6,4 portas,R$ 39.990,Sedã,Super Confortável!!! HB20 S 1.6 Aut 2014 - Caicó/RN  - 2014
+1090,2015,Flex,Branco,70.000,2.0 - 2.9,4 portas,R$ 45.000,Sedã,Ford Focus Sedã - 2015  - 2015
+1091,2016,Flex,Branco,68.000,1.0,4 portas,R$ 33.990,Hatch,Gm - Chevrolet Onix  - 2016
+1092,2016,Flex,Preto,55.000,1.8,4 portas,R$ 71.990,SUV,HR-V EX Cvt 1.8 Automatico 2016 completo impecável extra!!! Único dono sem detalhes  - 2016
+1093,2014,Flex,Cinza,84.000,1.8,4 portas,R$ 40.500,Sedã,COLBAT LTZ ADVANTAGE 1.8 automatico  - 2014
+1094,2013,Gasolina,Prata,100.000,2.0 - 2.9,4 portas,R$ 43.500,SUV,GRAND VITARA 2013 4x4  - 2013
+1095,2012,Flex,Cinza,106.623,1.4,4 portas,R$ 24.500,Sedã,Fiat-Siena EL 1.4 8v Flex-2012  - 2012
+1096,2012,Diesel,Preto,167.000,2.0 - 2.9,4 portas,R$ 70.000,Pick-up,Amarok highline  - 2012
+1097,2005,Gasolina,Preto,1.000.000,1.0,4 portas,R$ 10.500,Hatch,Fiesta 2005  - 2005
+1098,2017,Flex,Branco,27.875,1.4,4 portas,R$ 84.990,Sedã,Gm - Chevrolet Cruze DE 87.99000 POR R$ 84.99000  - 2017
+1099,2013,Flex,Verde,93.000,1.6,4 portas,R$ 36.900,SUV,Duster Dynamique 1.6 2013 completo  - 2013
+1100,2017,Gasolina,Branco,53.450,1.0,4 portas,R$ 34.990,Hatch,Vw - Volkswagen Gol 1.0 Trendline 12v 2017  - 2017
+1101,2017,Diesel,Prata,68.000,2.0 - 2.9,4 portas,R$ 95.900,Pick-up,Fiat toro volcano 4x4 2017 Diesel completa  - 2017
+1102,2015,Flex,Branco,94.663,1.0,4 portas,R$ 26.900,Sedã,Classic 1.0 2014/2015  - 2015
+1103,2015,Flex,Prata,81.512,1.4,2 portas,R$ 46.490,Pick-up,Fiat Strada  - 2015
+1104,2010,Flex,Cinza,112.000,1.4,4 portas,R$ 23.900,Passeio,Punto 1.4 elx  - 2010
+1105,2011,Gasolina,Branco,74.000,2.0 - 2.9,4 portas,R$ 32.000,Van/Utilitário,Topic 2011 completa 2° dono  - 2011
+1106,2018,Flex,Cinza,32.868,1.0,4 portas,R$ 34.890,Hatch,Gm - Chevrolet Onix 1.0 - 2018 completo + IPVA 2019 GRÁTIS  - 2018
+1107,2014,Gás Natural,Prata,89,1.4,4 portas,R$ 12.900,Sedã,Cobalt 1.4 Ltz 2014 com Gnv  - 2014
+1108,2016,Flex,Prata,52.800,1.8,4 portas,R$ 36.000,Sedã,Fiat Linea 2016 Único Dino!  - 2016
